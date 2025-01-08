@@ -1,0 +1,722 @@
+[
+    {
+        "query": "What is the referral form and how does it work?",
+        "solution": "The referral form allows you to refer a person. Once the referred person opens an account and places their first trade, you will be credited Rs. 500 in your wallet. However, this amount cannot be withdrawn or used for trading."
+    },
+    {
+        "query": "What is the referral form and how does it work?",
+        "solution": "(System Solution): The referral form allows you to refer a person. Once the referred person opens an account and places their first trade, you will be credited Rs. 500 in your wallet. However, this amount cannot be withdrawn or used for trading."
+    },
+    {
+        "query": "What is meant by Brokerage Reduction?",
+        "solution": "Brokerage Reduction refers to the reduction of Rs. 500 on the brokerage amount generated. This amount is not available for withdrawal or trading purposes."
+    },
+    {
+        "query": "What is meant by Brokerage Reduction?",
+        "solution": "(System Solution): Brokerage Reduction refers to the reduction of Rs. 500 on the brokerage amount generated. This amount is not available for withdrawal or trading purposes."
+    },
+    {
+        "query": "The customer is experiencing a faulty connection while using a mobile app and is unable to operate it properly. They are unsure about the Odin software and its purpose.",
+        "solution": "The agent suggests downloading the Odin software and advises the customer to report any issues related to it to the appropriate support team. The agent also requests a screen recording to better understand the problem."
+    },
+    {
+        "query": "The customer is experiencing a faulty connection while using a mobile app and is unable to operate it properly. They are unsure about the Odin software and its purpose.",
+        "solution": "(System Solution): The agent suggests downloading the Odin software and advises the customer to report any issues related to it to the appropriate support team. The agent also requests a screen recording to better understand the problem."
+    },
+    {
+        "query": "The customer is facing issues with the market data not reflecting properly in the app, with no movement in the market depth and order quantities.",
+        "solution": "The agent acknowledges the issue and requests the customer to provide a screen recording of any random script when the market opens. This will be forwarded to the technical department for further investigation."
+    },
+    {
+        "query": "The customer is facing issues with the market data not reflecting properly in the app, with no movement in the market depth and order quantities.",
+        "solution": "(System Solution): The agent acknowledges the issue and requests the customer to provide a screen recording of any random script when the market opens. This will be forwarded to the technical department for further investigation."
+    },
+    {
+        "query": "The customer is concerned about the lack of movement in the application and the inability to see changes in market trends.",
+        "solution": "The agent understands the concern and assures the customer that the issue will be raised with the technical department. They request a screen recording to help diagnose the problem."
+    },
+    {
+        "query": "The customer is concerned about the lack of movement in the application and the inability to see changes in market trends.",
+        "solution": "(System Solution): The agent understands the concern and assures the customer that the issue will be raised with the technical department. They request a screen recording to help diagnose the problem."
+    },
+    {
+        "query": "I don't have any money in my bank account and I have a negative balance. How can I resolve this?",
+        "solution": "The agent explained that for account closure, the customer needs to use the Choice app, go to More Options, select Support, choose the language, and then select account closure. The customer must write the reason for closure, submit the request, and after 2-3 days, they will receive a list on their email ID to complete the closure process."
+    },
+    {
+        "query": "I don't have any money in my bank account and I have a negative balance. How can I resolve this?",
+        "solution": "(System Solution): The agent explained that for account closure, the customer needs to use the Choice app, go to More Options, select Support, choose the language, and then select account closure. The customer must write the reason for closure, submit the request, and after 2-3 days, they will receive a list on their email ID to complete the closure process."
+    },
+    {
+        "query": "Why am I not able to do enrollment and trading?",
+        "solution": "The agent suggested that the customer should coordinate with their Relationship Manager (RM) to resolve the issue, as the closure request is pending and the RM has the details."
+    },
+    {
+        "query": "Why am I not able to do enrollment and trading?",
+        "solution": "(System Solution): The agent suggested that the customer should coordinate with their Relationship Manager (RM) to resolve the issue, as the closure request is pending and the RM has the details."
+    },
+    {
+        "query": "I put a request for closure, but it got closed automatically without any call or response. What should I do?",
+        "solution": "The agent clarified that the closure request is not closed but pending, and the customer should coordinate with their RM. The agent also offered to provide a link to assist with the process."
+    },
+    {
+        "query": "I put a request for closure, but it got closed automatically without any call or response. What should I do?",
+        "solution": "(System Solution): The agent clarified that the closure request is not closed but pending, and the customer should coordinate with their RM. The agent also offered to provide a link to assist with the process."
+    },
+    {
+        "query": "I have received an email for a back office report, but the way the report is sent is not right. You can't do anything with that report, so I want to talk to the back office only.",
+        "solution": "The agent asked for clarification on which report the customer wanted and suggested that the customer could open the report from yesterday to understand its contents."
+    },
+    {
+        "query": "I have received an email for a back office report, but the way the report is sent is not right. You can't do anything with that report, so I want to talk to the back office only.",
+        "solution": "(System Solution): The agent asked for clarification on which report the customer wanted and suggested that the customer could open the report from yesterday to understand its contents."
+    },
+    {
+        "query": "What is the difference between a PDF report and an Excel report?",
+        "solution": "The agent explained that you can't copy and paste in PDF, but you can download it in Excel. The customer mentioned that it's possible to convert PDF to Excel using Google, but the format is strange."
+    },
+    {
+        "query": "What is the difference between a PDF report and an Excel report?",
+        "solution": "(System Solution): The agent explained that you can't copy and paste in PDF, but you can download it in Excel. The customer mentioned that it's possible to convert PDF to Excel using Google, but the format is strange."
+    },
+    {
+        "query": "The date is missing in the Excel report, and I am getting a lot of confusion. Can you send me the mail format in Excel with which I can filter and check it?",
+        "solution": "The agent suggested converting the downloaded report into a CSV format or accessing it through the app if possible. They also mentioned that the customer could revert to the mail format in Excel for filtering and checking."
+    },
+    {
+        "query": "The date is missing in the Excel report, and I am getting a lot of confusion. Can you send me the mail format in Excel with which I can filter and check it?",
+        "solution": "(System Solution): The agent suggested converting the downloaded report into a CSV format or accessing it through the app if possible. They also mentioned that the customer could revert to the mail format in Excel for filtering and checking."
+    },
+    {
+        "query": "What should I write in the report? What is the name of the first PDF report, and what is the name of the Excel one?",
+        "solution": "The agent did not provide a direct solution to this query in the transcript."
+    },
+    {
+        "query": "What should I write in the report? What is the name of the first PDF report, and what is the name of the Excel one?",
+        "solution": "(System Solution): The agent did not provide a direct solution to this query in the transcript."
+    },
+    {
+        "query": "The reports got invalidated for me. Can you forward it to the mail right now?",
+        "solution": "The agent mentioned that the tag timing is around 48 hours, and it will take 2-3 days to get it back. The customer insisted on sending it to the mail, and the agent agreed to mention it in the mail."
+    },
+    {
+        "query": "The reports got invalidated for me. Can you forward it to the mail right now?",
+        "solution": "(System Solution): The agent mentioned that the tag timing is around 48 hours, and it will take 2-3 days to get it back. The customer insisted on sending it to the mail, and the agent agreed to mention it in the mail."
+    },
+    {
+        "query": "Are you going to square off or sell the month expiry positions?",
+        "solution": "The agent informed the customer that all the scripts have been squared off and there are no open positions. The customer should not buy or sell anything now due to a technical issue causing incorrect reflections."
+    },
+    {
+        "query": "Are you going to square off or sell the month expiry positions?",
+        "solution": "(System Solution): The agent informed the customer that all the scripts have been squared off and there are no open positions. The customer should not buy or sell anything now due to a technical issue causing incorrect reflections."
+    },
+    {
+        "query": "What do you put in minus? Like, one goes to plus and one goes to minus.",
+        "solution": "The agent explained that when buying and selling, a limit or stop-loss can be set. For a limit order, the price is set above the current market price. The stop-loss is the trigger price, which is set below the current market price."
+    },
+    {
+        "query": "What do you put in minus? Like, one goes to plus and one goes to minus.",
+        "solution": "(System Solution): The agent explained that when buying and selling, a limit or stop-loss can be set. For a limit order, the price is set above the current market price. The stop-loss is the trigger price, which is set below the current market price."
+    },
+    {
+        "query": "When I order it, where will I get a kilo of oil?",
+        "solution": "The agent clarified that there is no order for punch now. The customer needs to set a limit or stop-loss, with the stop-loss being the trigger price, indicated with a plus sign."
+    },
+    {
+        "query": "When I order it, where will I get a kilo of oil?",
+        "solution": "(System Solution): The agent clarified that there is no order for punch now. The customer needs to set a limit or stop-loss, with the stop-loss being the trigger price, indicated with a plus sign."
+    },
+    {
+        "query": "The bill has not been generated yet, and the settlement has not been done yet.",
+        "solution": "The agent advised the customer to wait until 6 o'clock in the evening for the bill to be generated, as the settlement has not been completed yet."
+    },
+    {
+        "query": "The bill has not been generated yet, and the settlement has not been done yet.",
+        "solution": "(System Solution): The agent advised the customer to wait until 6 o'clock in the evening for the bill to be generated, as the settlement has not been completed yet."
+    },
+    {
+        "query": "My phone is not working. Can I give you my mobile number?",
+        "solution": "The agent asked the customer to hang up and mentioned they would check the account registered under the name of Mamta Sandeep Thakur."
+    },
+    {
+        "query": "My phone is not working. Can I give you my mobile number?",
+        "solution": "(System Solution): The agent asked the customer to hang up and mentioned they would check the account registered under the name of Mamta Sandeep Thakur."
+    },
+    {
+        "query": "I am not able to log in to the website finx.choiceindia.com. It is rotating continuously and has been like this for a month.",
+        "solution": "The agent suggested the customer try logging in from their mobile application to see if the issue persists there. They also asked the customer to take a screenshot of the issue on the PC and email it to customercare@choiceindia.com for further assistance."
+    },
+    {
+        "query": "I am not able to log in to the website finx.choiceindia.com. It is rotating continuously and has been like this for a month.",
+        "solution": "(System Solution): The agent suggested the customer try logging in from their mobile application to see if the issue persists there. They also asked the customer to take a screenshot of the issue on the PC and email it to customercare@choiceindia.com for further assistance."
+    },
+    {
+        "query": "The customer was charged a brokerage fee of Rs. 50 per lot, but was initially informed it would be Rs. 20 per lot. Why is there a discrepancy?",
+        "solution": "The agent clarified that the brokerage fee for options is Rs. 25 per lot, not Rs. 50 as the customer mentioned. The customer was misinformed initially, and the agent confirmed the current brokerage rate."
+    },
+    {
+        "query": "The customer was charged a brokerage fee of Rs. 50 per lot, but was initially informed it would be Rs. 20 per lot. Why is there a discrepancy?",
+        "solution": "(System Solution): The agent clarified that the brokerage fee for options is Rs. 25 per lot, not Rs. 50 as the customer mentioned. The customer was misinformed initially, and the agent confirmed the current brokerage rate."
+    },
+    {
+        "query": "The customer filed a complaint about the brokerage charges but hasn't received any help or response yet. What should be done?",
+        "solution": "The agent acknowledged the complaint and provided the customer with a complaint number (4780342). The agent assured the customer that the request is still open and promised to send a reminder to the team to expedite the resolution."
+    },
+    {
+        "query": "The customer filed a complaint about the brokerage charges but hasn't received any help or response yet. What should be done?",
+        "solution": "(System Solution): The agent acknowledged the complaint and provided the customer with a complaint number (4780342). The agent assured the customer that the request is still open and promised to send a reminder to the team to expedite the resolution."
+    },
+    {
+        "query": "The customer mentioned that the RM promised to recover the shares but hasn't done so. What is the status of this recovery?",
+        "solution": "The agent confirmed that the team is coordinating with the RM, but there has been no response yet. The agent assured the customer that they would send a reminder to the team to follow up on the recovery process."
+    },
+    {
+        "query": "The customer mentioned that the RM promised to recover the shares but hasn't done so. What is the status of this recovery?",
+        "solution": "(System Solution): The agent confirmed that the team is coordinating with the RM, but there has been no response yet. The agent assured the customer that they would send a reminder to the team to follow up on the recovery process."
+    },
+    {
+        "query": "The customer asked for guidance on where to send additional evidence related to their complaint.",
+        "solution": "The agent instructed the customer to reply to the customer service page with the complaint number provided. The agent also offered to send a reminder to ensure the evidence is reviewed."
+    },
+    {
+        "query": "The customer asked for guidance on where to send additional evidence related to their complaint.",
+        "solution": "(System Solution): The agent instructed the customer to reply to the customer service page with the complaint number provided. The agent also offered to send a reminder to ensure the evidence is reviewed."
+    },
+    {
+        "query": "The customer asked about the process and timeline for the return of unused money deposited in the National Stock Exchange.",
+        "solution": "The agent explained that there is no specific refund process for unused money. If the customer wants to initiate a payout, they can do so through the application at any time. Quarterly payouts are given if there is no trading for a long time, as per city norms and exchange rules. The customer can withdraw funds before the quarterly payout if desired."
+    },
+    {
+        "query": "The customer asked about the process and timeline for the return of unused money deposited in the National Stock Exchange.",
+        "solution": "(System Solution): The agent explained that there is no specific refund process for unused money. If the customer wants to initiate a payout, they can do so through the application at any time. Quarterly payouts are given if there is no trading for a long time, as per city norms and exchange rules. The customer can withdraw funds before the quarterly payout if desired."
+    },
+    {
+        "query": "The customer inquired if the money would be returned in January for the quarter of October, November, and December.",
+        "solution": "The agent stated that they cannot comment on the exact timing as it depends on the exchange's instructions. However, if a request is made before the specified time, the funds will be credited to the customer's account."
+    },
+    {
+        "query": "The customer inquired if the money would be returned in January for the quarter of October, November, and December.",
+        "solution": "(System Solution): The agent stated that they cannot comment on the exact timing as it depends on the exchange's instructions. However, if a request is made before the specified time, the funds will be credited to the customer's account."
+    },
+    {
+        "query": "The customer wanted to know the name of the scheme related to the quarterly payouts.",
+        "solution": "The agent mentioned that the scheme is initiated by a separate department and is provided by default. If the customer does not want the payout, it will still be credited, and they will have to add the funds back later."
+    },
+    {
+        "query": "The customer wanted to know the name of the scheme related to the quarterly payouts.",
+        "solution": "(System Solution): The agent mentioned that the scheme is initiated by a separate department and is provided by default. If the customer does not want the payout, it will still be credited, and they will have to add the funds back later."
+    },
+    {
+        "query": "The customer asked about the cost of broking.",
+        "solution": "The agent requested the customer's registered mobile number and client ID to provide specific information, but the customer was unable to provide these details during the call."
+    },
+    {
+        "query": "The customer asked about the cost of broking.",
+        "solution": "(System Solution): The agent requested the customer's registered mobile number and client ID to provide specific information, but the customer was unable to provide these details during the call."
+    },
+    {
+        "query": "I have created a trade in your app, but that trade is not failing. What is the problem?",
+        "solution": "The agent checked and found that the limit exists for F2, U4, C, quantity 0. The customer has two cells, and if they keep cracking it repeatedly, it won't work. The agent suggests checking the quantity and ensuring the trade is executed correctly."
+    },
+    {
+        "query": "I have created a trade in your app, but that trade is not failing. What is the problem?",
+        "solution": "(System Solution): The agent checked and found that the limit exists for F2, U4, C, quantity 0. The customer has two cells, and if they keep cracking it repeatedly, it won't work. The agent suggests checking the quantity and ensuring the trade is executed correctly."
+    },
+    {
+        "query": "When will the money for the sale come?",
+        "solution": "The agent informed the customer that the money for the sale will come tomorrow. It follows the settlement process, which is trading plus one day."
+    },
+    {
+        "query": "When will the money for the sale come?",
+        "solution": "(System Solution): The agent informed the customer that the money for the sale will come tomorrow. It follows the settlement process, which is trading plus one day."
+    },
+    {
+        "query": "Why not today?",
+        "solution": "The agent explained that if the customer bought the stock on the 1st and sold it on the 2nd, they would get 80% of the amount immediately. However, since the customer bought it on the 2nd and is selling it today, they will not receive 80% immediately."
+    },
+    {
+        "query": "Why not today?",
+        "solution": "(System Solution): The agent explained that if the customer bought the stock on the 1st and sold it on the 2nd, they would get 80% of the amount immediately. However, since the customer bought it on the 2nd and is selling it today, they will not receive 80% immediately."
+    },
+    {
+        "query": "Can you reduce the charges of brokerage?",
+        "solution": "The agent informed the customer that to reduce the charges of brokerage, they should contact their relationship manager, who can assist in reducing the brokerage charges."
+    },
+    {
+        "query": "Can you reduce the charges of brokerage?",
+        "solution": "(System Solution): The agent informed the customer that to reduce the charges of brokerage, they should contact their relationship manager, who can assist in reducing the brokerage charges."
+    },
+    {
+        "query": "What is the difference between stop loss and stop loss?",
+        "solution": "The agent explained that when a share is bought with a stop loss, the position of the script will be shown. The customer needs to go to the position, click on it, and then choose the sell option. An interface will open where the customer can enter the price, quantity, and amount. The stop-loss price should be entered, and below that, a trigger price should also be set."
+    },
+    {
+        "query": "What is the difference between stop loss and stop loss?",
+        "solution": "(System Solution): The agent explained that when a share is bought with a stop loss, the position of the script will be shown. The customer needs to go to the position, click on it, and then choose the sell option. An interface will open where the customer can enter the price, quantity, and amount. The stop-loss price should be entered, and below that, a trigger price should also be set."
+    },
+    {
+        "query": "I placed an order yesterday and tried to execute it today, but it didn't happen. Why is that?",
+        "solution": "The agent checked and confirmed that the order was executed at 11:06, and 300 quantities were sold. The order was executed, but the trading balance is not showing because it will show in today's position and not after settlement."
+    },
+    {
+        "query": "I placed an order yesterday and tried to execute it today, but it didn't happen. Why is that?",
+        "solution": "(System Solution): The agent checked and confirmed that the order was executed at 11:06, and 300 quantities were sold. The order was executed, but the trading balance is not showing because it will show in today's position and not after settlement."
+    },
+    {
+        "query": "Why is the trading balance not showing in CFS?",
+        "solution": "The agent explained that the trading balance will show in today's position, and if there is a settlement tomorrow, it will not show in position. The trade value and overall profit and loss will keep changing."
+    },
+    {
+        "query": "Why is the trading balance not showing in CFS?",
+        "solution": "(System Solution): The agent explained that the trading balance will show in today's position, and if there is a settlement tomorrow, it will not show in position. The trade value and overall profit and loss will keep changing."
+    },
+    {
+        "query": "I bought Anmol stock yesterday, why is my fund not released today?",
+        "solution": "The agent informed that if trading in BTST (Buy Today, Sell Tomorrow), the fund is not released on the same day. The fund will be released on the settlement date, which is the next day."
+    },
+    {
+        "query": "I bought Anmol stock yesterday, why is my fund not released today?",
+        "solution": "(System Solution): The agent informed that if trading in BTST (Buy Today, Sell Tomorrow), the fund is not released on the same day. The fund will be released on the settlement date, which is the next day."
+    },
+    {
+        "query": "Can the sale be canceled if I bought the stock yesterday and sold it today?",
+        "solution": "The agent clarified that since the stock has been sold, it cannot be canceled. The fund will be released the next day, and if there is a shortfall for another purchase, additional funds can be added."
+    },
+    {
+        "query": "Can the sale be canceled if I bought the stock yesterday and sold it today?",
+        "solution": "(System Solution): The agent clarified that since the stock has been sold, it cannot be canceled. The fund will be released the next day, and if there is a shortfall for another purchase, additional funds can be added."
+    },
+    {
+        "query": "Why is the balance showing as Rs. 6,168 not available for trading?",
+        "solution": "The agent explained that the balance is not available for trading immediately. If the customer wants to purchase something else, they need to add funds separately to cover any shortfall."
+    },
+    {
+        "query": "Why is the balance showing as Rs. 6,168 not available for trading?",
+        "solution": "(System Solution): The agent explained that the balance is not available for trading immediately. If the customer wants to purchase something else, they need to add funds separately to cover any shortfall."
+    },
+    {
+        "query": "I am not able to trade in the MCA option. My order is being rejected.",
+        "solution": "The agent asked the customer to place an order to identify the error causing the rejection. They mentioned that they cannot check past orders and need a current order to diagnose the issue."
+    },
+    {
+        "query": "I am not able to trade in the MCA option. My order is being rejected.",
+        "solution": "(System Solution): The agent asked the customer to place an order to identify the error causing the rejection. They mentioned that they cannot check past orders and need a current order to diagnose the issue."
+    },
+    {
+        "query": "Should I buy from the market or should I place a limit order for crude oil at Rs. 5800?",
+        "solution": "The agent suggested placing a limit order since the market order was not successful previously. They confirmed that the limit order was successful."
+    },
+    {
+        "query": "Should I buy from the market or should I place a limit order for crude oil at Rs. 5800?",
+        "solution": "(System Solution): The agent suggested placing a limit order since the market order was not successful previously. They confirmed that the limit order was successful."
+    },
+    {
+        "query": "Has my order been sold or what?",
+        "solution": "The agent confirmed that the order has been executed and the customer has signed the 820T, indicating that the order has been sold."
+    },
+    {
+        "query": "Has my order been sold or what?",
+        "solution": "(System Solution): The agent confirmed that the order has been executed and the customer has signed the 820T, indicating that the order has been sold."
+    },
+    {
+        "query": "When will I get the balance back?",
+        "solution": "The agent explained that the amount will settle in T plus 1 day, and the settlement team works on T plus 2. The customer should expect the amount to be settled by the next day."
+    },
+    {
+        "query": "When will I get the balance back?",
+        "solution": "(System Solution): The agent explained that the amount will settle in T plus 1 day, and the settlement team works on T plus 2. The customer should expect the amount to be settled by the next day."
+    },
+    {
+        "query": "Do I have to process anything from here?",
+        "solution": "The agent assured the customer that they do not need to process anything further as the money has already been paid and the amount will be settled the next day."
+    },
+    {
+        "query": "Do I have to process anything from here?",
+        "solution": "(System Solution): The agent assured the customer that they do not need to process anything further as the money has already been paid and the amount will be settled the next day."
+    },
+    {
+        "query": "Why is it showing profit and loss as minus?",
+        "solution": "The agent explained that the settlement team decides the charges, including brokerage and taxes, which affect the profit and loss display. The margin is neutralized, and all charges are included in the displayed amount."
+    },
+    {
+        "query": "Why is it showing profit and loss as minus?",
+        "solution": "(System Solution): The agent explained that the settlement team decides the charges, including brokerage and taxes, which affect the profit and loss display. The margin is neutralized, and all charges are included in the displayed amount."
+    },
+    {
+        "query": "My major bonus was Rs. 34,000 in minus. I sold Rs. 120,000 worth of goods outside. How are you showing me the fund in minus?",
+        "solution": "The agent explained that if the customer sold the goods today, the settlement would occur tomorrow, which is why the funds are still showing as minus."
+    },
+    {
+        "query": "My major bonus was Rs. 34,000 in minus. I sold Rs. 120,000 worth of goods outside. How are you showing me the fund in minus?",
+        "solution": "(System Solution): The agent explained that if the customer sold the goods today, the settlement would occur tomorrow, which is why the funds are still showing as minus."
+    },
+    {
+        "query": "I sold it on the 3rd for 2,36,420, so it's 33 minus now. And I sold it today, MM Laser balance 134 minus 11. How come I don't have the balance?",
+        "solution": "The agent clarified that the funds from today's sale have not yet been received, which is why the balance is still showing as minus."
+    },
+    {
+        "query": "I sold it on the 3rd for 2,36,420, so it's 33 minus now. And I sold it today, MM Laser balance 134 minus 11. How come I don't have the balance?",
+        "solution": "(System Solution): The agent clarified that the funds from today's sale have not yet been received, which is why the balance is still showing as minus."
+    },
+    {
+        "query": "So, I don't have the funds now? Will it come in the next few days?",
+        "solution": "The agent confirmed that the funds have not yet been received and that the MTF balance is different from the current transaction."
+    },
+    {
+        "query": "So, I don't have the funds now? Will it come in the next few days?",
+        "solution": "(System Solution): The agent confirmed that the funds have not yet been received and that the MTF balance is different from the current transaction."
+    },
+    {
+        "query": "How many charges are you collecting from each side?",
+        "solution": "The agent explained that the brokerage rate is 0.4% in delivery and 0.04% in internal. Options are charged at 30 rupees per lot, and commodities are charged at 50 rupees per lot for both buying and selling."
+    },
+    {
+        "query": "How many charges are you collecting from each side?",
+        "solution": "(System Solution): The agent explained that the brokerage rate is 0.4% in delivery and 0.04% in internal. Options are charged at 30 rupees per lot, and commodities are charged at 50 rupees per lot for both buying and selling."
+    },
+    {
+        "query": "What is my email ID now?",
+        "solution": "The agent confirmed the email ID as cp46@gmail.com and mentioned that it can be modified through the application by going to the profile section and updating the contact information."
+    },
+    {
+        "query": "What is my email ID now?",
+        "solution": "(System Solution): The agent confirmed the email ID as cp46@gmail.com and mentioned that it can be modified through the application by going to the profile section and updating the contact information."
+    },
+    {
+        "query": "How can I update my email ID?",
+        "solution": "The agent instructed the customer to go to the application, click on the profile where the username is shown, select 'Profile Modification,' enter the client name, verify the OTP, and update the contact information. The update will take 24 hours to process."
+    },
+    {
+        "query": "How can I update my email ID?",
+        "solution": "(System Solution): The agent instructed the customer to go to the application, click on the profile where the username is shown, select 'Profile Modification,' enter the client name, verify the OTP, and update the contact information. The update will take 24 hours to process."
+    },
+    {
+        "query": "I need the statement right now, how can I get it?",
+        "solution": "The agent advised that the email ID needs to be updated first, and once updated, the customer can request the statement by emailing customercare.edgarage@choiceindia.com."
+    },
+    {
+        "query": "I need the statement right now, how can I get it?",
+        "solution": "(System Solution): The agent advised that the email ID needs to be updated first, and once updated, the customer can request the statement by emailing customercare.edgarage@choiceindia.com."
+    },
+    {
+        "query": "Can I send a text message or use WhatsApp for communication?",
+        "solution": "The agent informed that WhatsApp is not allowed, and communication should be done through the email ID customercare@choiceindia.com. The customer can also request support through the system by going to the support section."
+    },
+    {
+        "query": "Can I send a text message or use WhatsApp for communication?",
+        "solution": "(System Solution): The agent informed that WhatsApp is not allowed, and communication should be done through the email ID customercare@choiceindia.com. The customer can also request support through the system by going to the support section."
+    },
+    {
+        "query": "The referral is not showing in the application. Why is it not showing?",
+        "solution": "The agent explained that for the referral to show in the application, the referred person must first open an account and then perform a trade with a minimum value of 50 rupees. Once these conditions are met, the referral will reflect in the system within 24 hours."
+    },
+    {
+        "query": "The referral is not showing in the application. Why is it not showing?",
+        "solution": "(System Solution): The agent explained that for the referral to show in the application, the referred person must first open an account and then perform a trade with a minimum value of 50 rupees. Once these conditions are met, the referral will reflect in the system within 24 hours."
+    },
+    {
+        "query": "Can you check and tell me the numbers of the people I have called?",
+        "solution": "The agent informed the customer that they cannot check the numbers from their end because the customer shares links, and they do not have access to that data. However, if the customer provides a mobile number, the agent can call from their end."
+    },
+    {
+        "query": "Can you check and tell me the numbers of the people I have called?",
+        "solution": "(System Solution): The agent informed the customer that they cannot check the numbers from their end because the customer shares links, and they do not have access to that data. However, if the customer provides a mobile number, the agent can call from their end."
+    },
+    {
+        "query": "I was about to pledge my shares in my holding, but they are not pledging. What's the matter?",
+        "solution": "The agent asked the customer to provide a screenshot of the error page so that they can assist as early as possible."
+    },
+    {
+        "query": "I was about to pledge my shares in my holding, but they are not pledging. What's the matter?",
+        "solution": "(System Solution): The agent asked the customer to provide a screenshot of the error page so that they can assist as early as possible."
+    },
+    {
+        "query": "I can't get my phone number at the end of the day. This is not your registered mobile number.",
+        "solution": "The agent asked for the registered mobile number to check the issue."
+    },
+    {
+        "query": "I can't get my phone number at the end of the day. This is not your registered mobile number.",
+        "solution": "(System Solution): The agent asked for the registered mobile number to check the issue."
+    },
+    {
+        "query": "Can you provide us a recording where we can access your offline account?",
+        "solution": "The agent stated that they do not have access to the offline account and cannot solve the problem without it."
+    },
+    {
+        "query": "Can you provide us a recording where we can access your offline account?",
+        "solution": "(System Solution): The agent stated that they do not have access to the offline account and cannot solve the problem without it."
+    },
+    {
+        "query": "Can you provide us a recording where we can access your online account?",
+        "solution": "The agent stated that they do not have access to the online account and cannot solve the problem without it."
+    },
+    {
+        "query": "Can you provide us a recording where we can access your online account?",
+        "solution": "(System Solution): The agent stated that they do not have access to the online account and cannot solve the problem without it."
+    },
+    {
+        "query": "I have already attached it and sent it. No one has come after that.",
+        "solution": "The agent asked for the ticket number to check the status and informed that the receipt is not being reflected."
+    },
+    {
+        "query": "I have already attached it and sent it. No one has come after that.",
+        "solution": "(System Solution): The agent asked for the ticket number to check the status and informed that the receipt is not being reflected."
+    },
+    {
+        "query": "Can I change my RN? Is it possible?",
+        "solution": "The agent informed that the customer would need to mail proof of transfer to customercare@therealchoicecenter.com, and the transfer team will check the criteria for transferring the account."
+    },
+    {
+        "query": "Can I change my RN? Is it possible?",
+        "solution": "(System Solution): The agent informed that the customer would need to mail proof of transfer to customercare@therealchoicecenter.com, and the transfer team will check the criteria for transferring the account."
+    },
+    {
+        "query": "I want to open a new account. What is the procedure?",
+        "solution": "The agent informed the customer that they can open a new account through the Choice Finx app or by visiting the website and signing up. After signing up, the customer needs to attach a digital locker or upload the necessary documents. They also need to verify their bank account by entering the bank details and uploading a financial cheque. Additionally, the customer must provide their mobile number and email ID. The process will guide them step by step, including receiving an OTP for verification."
+    },
+    {
+        "query": "I want to open a new account. What is the procedure?",
+        "solution": "(System Solution): The agent informed the customer that they can open a new account through the Choice Finx app or by visiting the website and signing up. After signing up, the customer needs to attach a digital locker or upload the necessary documents. They also need to verify their bank account by entering the bank details and uploading a financial cheque. Additionally, the customer must provide their mobile number and email ID. The process will guide them step by step, including receiving an OTP for verification."
+    },
+    {
+        "query": "The app is loading when trying to log in.",
+        "solution": "The agent suggested reinstalling the application after uninstalling it. They also mentioned that the issue is being raised with the Consent Department as many clients are facing this problem."
+    },
+    {
+        "query": "How to place an order urgently?",
+        "solution": "The agent advised using the Call and Trade Facility to place an order urgently. They provided a contact number for this service: 88889999200200."
+    },
+    {
+        "query": "Can orders be placed from the branches?",
+        "solution": "The agent clarified that orders can only be placed through the Call and Trade Facility and not from the branches. They emphasized not sharing credentials as per company policy."
+    },
+    {
+        "query": "I have made a transaction and it is not showing in my wallet.",
+        "solution": "The agent confirmed the transaction amount of \u20b96,355 and assured the customer that they would raise the issue with the Consent Department to resolve the problem."
+    },
+    {
+        "query": "How much amount did you request?",
+        "solution": "The customer requested an amount of $49.50."
+    },
+    {
+        "query": "When did you take it?",
+        "solution": "The customer mentioned that it has been 3-4 days since the transaction, possibly on a Friday."
+    },
+    {
+        "query": "What success are you showing?",
+        "solution": "The customer is inquiring about the status of a $1500 transaction that is not reflecting in their account."
+    },
+    {
+        "query": "Is it not in your account?",
+        "solution": "The agent confirmed that the amount is not showing in the customer's account with the number ending in 1528."
+    },
+    {
+        "query": "How much brokerage and what charges have been imposed on my trades?",
+        "solution": "The brokerage charges are Rs. 50, and additional charges are Rs. 100. The brokerage is imposed per lot, not per trade."
+    },
+    {
+        "query": "What is the loss on my crude oil trade?",
+        "solution": "The loss on the crude oil trade is Rs. 5,100. The buying price was Rs. 171.50, and the selling price was Rs. 120.50, resulting in a loss of Rs. 51 per quantity. Multiplied by 100 quantities, the total loss is Rs. 5,100."
+    },
+    {
+        "query": "What is the total deduction from my account?",
+        "solution": "The total deduction includes a loss of Rs. 5,140 in FX and Rs. 328 in FNO, leaving a balance of Rs. 9,668 in the account."
+    },
+    {
+        "query": "I don't understand the calculation of my account balance.",
+        "solution": "The agent advises the customer to open their Ledger in the application to verify the calculations. The Ledger will show the correct amounts and reflect the proper deductions and balances."
+    },
+    {
+        "query": "I had put some money for withdrawal on Friday, and it is showing success, but the money has not yet come to the account. Why is this? When will it happen? How many days will it take?",
+        "solution": "The agent checked the request and confirmed that the payout of Rs. 4200 has a confirmation date of today, 25-11-2024. The agent requested the customer to wait for today as the amount will be transferred to the account by evening. The success status indicates that the withdrawal request was successfully placed."
+    },
+    {
+        "query": "What are the brokerage charges for your company?",
+        "solution": "The brokerage charges are 0.3% in delivery, 0.03% in intraday, and \u20b930 per lot in Futures and Options. If the customer wants to reduce these charges, they can contact their Relationship Manager for assistance."
+    },
+    {
+        "query": "Can the brokerage charges be more or less?",
+        "solution": "The agent informed that if the customer wants to reduce the brokerage charges, they can contact their Relationship Manager, who will help in reducing the brokerage."
+    },
+    {
+        "query": "Can I have the contact details of my Relationship Manager?",
+        "solution": "The agent provided the customer with the Relationship Manager's contact number, which is 9111 77355, and mentioned that the Relationship Manager's name is Seema, who is located at the indoor branch."
+    },
+    {
+        "query": "My account is in trash. I want to check if my account is open in Equity or Mutual Funds.",
+        "solution": "The agent checked and informed the customer that there is no account on the provided number. After verifying the correct number and security data, the agent confirmed that the account is open."
+    },
+    {
+        "query": "I opened my account with the help of a bank's app, but it's not showing as opened in the leaflet.",
+        "solution": "The agent confirmed that the account has been opened under the name Choice Finx Private Limited and assured the customer that the account is indeed open."
+    },
+    {
+        "query": "If I don't receive a message about my account, can I get it through mail?",
+        "solution": "The agent advised the customer to mail their request to the support page's email address, and the team will send a message if not received."
+    },
+    {
+        "query": "I have a fund available in the Choice application. I have to withdraw that fund to the bank account. I had sent a request in the morning; it was in auto-pending. Now it has been cancelled automatically.",
+        "solution": "The agent explained that the withdrawal request does not get canceled automatically; it is usually canceled from the client's side. However, the agent offered to check with the back-end team to verify the status of the request and advised the customer to stay on the line for further confirmation."
+    },
+    {
+        "query": "Should I send the request again, or should I not do it?",
+        "solution": "The agent advised the customer to wait for confirmation after checking with the back-end team before sending the request again. The agent requested the customer to stay on the line for further instructions."
+    },
+    {
+        "query": "I am withdrawing money from my Choice Broking account, but it is not going through.",
+        "solution": "The agent informed the customer that since the funds were added today, they cannot be withdrawn on the same day. The customer will have to wait until the next day to withdraw the funds."
+    },
+    {
+        "query": "There is no derivative segment activated in my account. How can I activate it?",
+        "solution": "The agent guided the customer to open the application and navigate to the profile section. The customer was instructed to click on 'Segment Activation' and tick the segments they want to activate. The customer needs to submit a request and upload a 6-month bank statement as income proof."
+    },
+    {
+        "query": "I opened an account through a referral and there is no update in my account. The lead has not been added.",
+        "solution": "The agent informed the customer that the line they were on was for customer care clients and that their support was separate. The customer was advised to contact the support number 812424242424 for further assistance."
+    },
+    {
+        "query": "I have opened an account from my referral program in the Demat account, but it has not been added to the lead yet.",
+        "solution": "The agent asked the customer to provide details such as client ID or mobile number. The customer was advised to mention in their communication that they have referred someone and have not received a referral voucher. They should also include the client ID and phone number of the people they referred."
+    },
+    {
+        "query": "What will I have to do for Panchayat-ji?",
+        "solution": "The agent provided the customer with the contact number 812-22-22-22 for Panchayat-ji related queries."
+    },
+    {
+        "query": "I wanted to ask you something about the profit I made today. When the market was closed, my amount was Rs. 4,462. I have made a profit of Rs. 922 today. This fund is telling me that only Rs. 3922 is coming from the fund.",
+        "solution": "The agent explained that in Choice Finx, the brokerage is Rs. 20 per lot. Therefore, the brokerage amount will be deducted from the total profit, and the remaining amount will be received by the customer. The settlement will be completed by the next day, and the customer will receive a proper contract note with the amount."
+    },
+    {
+        "query": "I am selling, but the account is showing a minus.",
+        "solution": "The agent explained that the customer's margin is utilized by 0.79, and the amount from the sellout has not yet been settled. The settlement time is on Tuesdays and Mondays, so the amount will be settled the next day. The customer needs to wait until tomorrow for the settlement."
+    },
+    {
+        "query": "The balance is showing in minus. The amount available for trading is showing minus 44.",
+        "solution": "The agent clarified that the balance is showing minus 44 because the margin is utilized in today's order. The customer should wait until tomorrow for the amount to be settled."
+    },
+    {
+        "query": "Earlier, the fund was 126 rupees. On the 9th, you traded 238 rupees. You traded against it because your account went negative by 121.",
+        "solution": "The agent confirmed that the sale is done, and the position is cleared up. The amount of the sale is settled the next day, with 80% done on the same day and the remaining 20% done the next day. The customer can wait until tomorrow morning for the settlement."
+    },
+    {
+        "query": "I am downloading an app, there is an invalid token message.",
+        "solution": "The agent suggested reinstalling the application as there is no issue from their side. If the problem persists, the customer should send a screenshot to Customer Care at care@choiceindia.com."
+    },
+    {
+        "query": "What is the address that you are updating in the document?",
+        "solution": "The agent suggested checking the TTO (Trade to Trade) details and mentioned that there might be technical difficulties. They advised processing the document again and uploading it, asking the customer to inform them if any issues arise."
+    },
+    {
+        "query": "Do you want to add a memory or skip it?",
+        "solution": "The agent confirmed that the customer should skip adding a memory and complete the rest of the cases, assuring that there is no issue."
+    },
+    {
+        "query": "What should I do if there is an error during processing?",
+        "solution": "The agent instructed the customer to let them know if there is any error during processing and mentioned that they are trying to contact the customer for further assistance."
+    },
+    {
+        "query": "How do I repay the bank and complete the process?",
+        "solution": "The agent explained that the customer needs to enter their account number and IFSC code, click on the box to collect the money, and complete the process at the bank to ensure they receive the money."
+    },
+    {
+        "query": "What bank details do I need to provide?",
+        "solution": "The agent informed the customer to enter the IFSC code and account number of the bank they primarily use, as they need to connect to the bank. They also mentioned that the customer should complete the process and call back if there are any issues."
+    },
+    {
+        "query": "Do you want to complete it?",
+        "solution": "The agent confirms the completion of the transaction by transferring the amount to the customer's account."
+    },
+    {
+        "query": "I have just applied for an IPO. It has been amended, but there is no update here.",
+        "solution": "The agent checked the status and informed the customer that the IPO application is in the UPI status. The amount is blocked, but the application is not updated yet. The update will occur once confirmation is received from the central depository."
+    },
+    {
+        "query": "Where will the confirmation come from? From the exchange?",
+        "solution": "The agent clarified that the confirmation will come from the central depository, and then it will be updated in the application."
+    },
+    {
+        "query": "The fund of 19,000 was shown in the ledger, but only 10,000 is showing in the account. Where did the rest of the funds go?",
+        "solution": "The agent informed the customer that the account had Rs. 29,851 as of yesterday. The customer conducted trading, buying and selling 1900 units of Choice Finx, resulting in a debit balance of Rs. 19,408. The current ledger balance is Rs. 10,443 due to a loss of Rs. 16,629 from the trading, inclusive of brokerage and GST."
+    },
+    {
+        "query": "How long will it take for the withdrawal to be processed?",
+        "solution": "The agent explained that if the withdrawal request is made now, the balance will be in the customer's account between 2 to 3 o'clock today."
+    },
+    {
+        "query": "Can you check if my withdrawal request is successful?",
+        "solution": "The agent confirmed that a withdrawal request for Rs. 10,443 was made and the payment will be received in the customer's account between 2-3 pm today."
+    },
+    {
+        "query": "I just had a sale for rupees near about 200K today, and it is not reflecting in my trading account. I just want to withdraw that amount. When will it be reflecting, and how can I withdraw it?",
+        "solution": "The sale amount will reflect in the account on the next working day, which will be on Monday. The customer can withdraw the amount around 10:00 to 10:30 AM."
+    },
+    {
+        "query": "At what time will it be credited to my bank account?",
+        "solution": "If the customer places a request before market hours, it will be credited to their Demat account on the same day. If the request is placed after market hours, it will be credited on the next working day. The customer should apply before the market opens or during market hours."
+    },
+    {
+        "query": "I had withdrawn money. Why hasn't it come yet?",
+        "solution": "The agent checked and informed the customer that the withdrawal made today is pending and is expected to be processed by 9 PM. The agent also confirmed that a previous withdrawal of Rs. 500 was successful."
+    },
+    {
+        "query": "I can't see the entry for the Rs. 500 withdrawal in my account.",
+        "solution": "The agent confirmed that the Rs. 500 withdrawal was successful and advised the customer to check their Kotak Mahindra account statement. If the entry is not visible, the customer should send a screenshot of their statement to customercare@choiceindia.com."
+    },
+    {
+        "query": "Will the Rs. 9000 withdrawal come tonight?",
+        "solution": "The agent assured the customer that the Rs. 9000 withdrawal would be processed and should be visible in the account by 9 PM."
+    },
+    {
+        "query": "Should I modify anything in the pending transactions?",
+        "solution": "The agent advised the customer not to modify anything in the pending transactions as it could delay the process. The transaction should be successful by 9 PM."
+    },
+    {
+        "query": "I want to know the bank details and whether the funds have been withdrawn or not.",
+        "solution": "The agent confirmed that the request for withdrawal has been successfully placed and requested the customer to wait until the evening for the payment to be transferred to their bank. The primary bank is shown as Bank of India."
+    },
+    {
+        "query": "I have taken the money from the SEBI. Is there a primary SEBI in this?",
+        "solution": "The agent clarified that if the customer selected the withdrawal to be in their SEBI account, then the funds will be received in the same bank."
+    },
+    {
+        "query": "Customer asked if the payout of \u20b990,000 and \u20b912,90,000 will be done now.",
+        "solution": "The agent informed the customer that the payout request has been sent and it will be done by 10 o'clock. The customer should receive it by today."
+    },
+    {
+        "query": "Customer inquired if both accounts should be done before 2 o'clock.",
+        "solution": "The agent expressed doubt that it would be done before 2 o'clock since the request was made at 10:18. The customer was advised to check by 12 or 2, and if it doesn't come by 2, it should come after 10."
+    },
+    {
+        "query": "Customer asked if they should contact Lokesh for further assistance.",
+        "solution": "The agent explained that Lokesh sits in Bhopal and they cannot transfer the call from there. However, the agent offered to ask Lokesh to call the customer."
+    },
+    {
+        "query": "The customer wants to activate the F&O segment for their daughter's account after buying shares worth 15,000.",
+        "solution": "The agent informs the customer that they need to email care@choiceindia.com requesting a holding statement for the F&O segment, including the client ID. Once the request is generated, the segment will be activated within 48 working hours."
+    },
+    {
+        "query": "The customer asks if they need to send the email or if their daughter should do it.",
+        "solution": "The agent advises that the email should be sent from the daughter's registered email ID."
+    },
+    {
+        "query": "The customer inquires about the email address to send the request to.",
+        "solution": "The agent confirms the email address as care@choiceindia.com."
+    },
+    {
+        "query": "The customer asks what needs to be written in the email.",
+        "solution": "The agent instructs to write that a statement for the F&O segment, specifically a DP statement, is required and to mention the client code."
+    },
+    {
+        "query": "The customer asks about the process after obtaining the statement.",
+        "solution": "The agent explains that after obtaining the statement, the customer should go to the Choice Finx application, navigate to 'More', click on their name, and select 'Profile Modification' to raise a request. The account will be activated in 48 working hours after the request is raised."
+    },
+    {
+        "query": "The customer asks if they need to upload documents to Choice Finx.",
+        "solution": "The agent confirms that documents need to be uploaded."
+    },
+    {
+        "query": "The customer inquires about the charges for selling shares.",
+        "solution": "The agent explains that in the delivery and cash segment, the charge is 0.3%, and in intraday, it is 0.03% over the turnover. For the F&O segment, charges will be confirmed once the segment is activated."
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "query": "What is the referral form and how does it work?",
+        "agent_solution": "The referral form allows you to refer a person. Once the referred person opens an account and places their first trade, you will be credited Rs. 500 in your wallet. However, this amount cannot be withdrawn or used for trading.",
+        "actual_answer": "To refer your friends and family to Choice, you can use the referral program offered by the company. As an existing investor/trader of Choice, you have the opportunity to refer our services to your loved ones. To get started, you need to use your personalized referral link to invite them to create an account on Choice. Once they successfully activate their account, you will be eligible to enjoy the rewards and benefits of our Refer and Earn program. This program allows you to earn rewards for each successful referral you make. So, start referring today and reap the benefits of our referral program!"
+    },
+    {
+        "query": "What is meant by Brokerage Reduction?",
+        "agent_solution": "Brokerage Reduction refers to the reduction of Rs. 500 on the brokerage amount generated. This amount is not available for withdrawal or trading purposes.",
+        "actual_answer": "Brokerage reduction refers to the decrease in the fees or charges imposed by a brokerage firm for facilitating trades or providing investment services. This reduction can be in the form of lower commission rates, discounted fees, or special offers to attract clients. It is a strategy used by brokerage firms to make their services more competitive and appealing to investors. If you are looking for specific information on brokerage reduction at a particular brokerage firm, I recommend reaching out to their customer support or checking their official website for any ongoing promotions or updates related to brokerage fees."
+    },
+    {
+        "query": "The customer is experiencing a faulty connection while using a mobile app and is unable to operate it properly. They are unsure about the Odin software and its purpose.",
+        "agent_solution": "The agent suggests downloading the Odin software and advises the customer to report any issues related to it to the appropriate support team. The agent also requests a screen recording to better understand the problem.",
+        "actual_answer": "It seems like you are experiencing connectivity issues while using the mobile app. To address this problem, you can try the following steps:\n\n1. Check your internet connection: Make sure you have a stable internet connection to ensure smooth operation of the app.\n\n2. Restart the app: Close the app completely and reopen it to see if the issue persists.\n\n3. Update the app: Ensure that you are using the latest version of the app to avoid any compatibility issues.\n\nRegarding Odin software, it is not mentioned in the retrieved documents. If you are unsure about Odin software and its purpose, it would be best to reach out to the app's customer support team for more specific information. They will be able to provide you with detailed insights into the software and how it relates to the app you are using."
+    },
+    {
+        "query": "The customer is facing issues with the market data not reflecting properly in the app, with no movement in the market depth and order quantities.",
+        "agent_solution": "The agent acknowledges the issue and requests the customer to provide a screen recording of any random script when the market opens. This will be forwarded to the technical department for further investigation.",
+        "actual_answer": "Based on the retrieved documents, it seems like the issue you are facing with the market data not reflecting properly in the app could be related to the specific trading positions and market performance data. Here are a few steps you can take to troubleshoot the problem:\n\n1. Check the Positions Tab in the app to ensure that the market data for your positions is updating correctly. You can track the current value and overall gain or loss of your positions in this section.\n\n2. Verify that you are viewing the correct market data by accessing the Markets section in the app. This section provides a comprehensive overview of market performance and data, categorized into different segments such as Equity, Derivatives, Commodities, Currency, and more.\n\n3. If you are experiencing issues with order quantities and market depth, consider checking the specific trade details for the affected scrip. You can access the dedicated page for the scrip to view trade details and initiate further trades if needed.\n\n4. In case you are using advanced charting features for analysis, ensure that you are customizing your chart with the relevant intervals, chart types, and studies to get a better perspective on market movements.\n\nIf the issue persists, you may want to reach out to customer support for further assistance in resolving the market data discrepancies in the app."
+    },
+    {
+        "query": "The customer is concerned about the lack of movement in the application and the inability to see changes in market trends.",
+        "agent_solution": "The agent understands the concern and assures the customer that the issue will be raised with the technical department. They request a screen recording to help diagnose the problem.",
+        "actual_answer": "It seems like the customer is concerned about the lack of movement in the application and the inability to see changes in market trends. One way to address this issue is by utilizing the Advanced Charting feature available in the app. The Advanced Charting feature allows users to dive deeper into script analysis by offering various chart types, intervals, and studies such as SMA, VWAP, and more. Users can customize their charts to suit their trading needs, add studies to aid their trading decisions, and even initiate Buy/Sell calls directly from the tool. Additionally, users can set price alerts directly from the chart to stay informed of market movements in real-time. By leveraging the Advanced Charting feature, customers can actively monitor market trends and make informed trading decisions based on the data presented in the charts."
+    },
+    {
+        "query": "I don't have any money in my bank account and I have a negative balance. How can I resolve this?",
+        "agent_solution": "The agent explained that for account closure, the customer needs to use the Choice app, go to More Options, select Support, choose the language, and then select account closure. The customer must write the reason for closure, submit the request, and after 2-3 days, they will receive a list on their email ID to complete the closure process.",
+        "actual_answer": "To resolve a negative balance in your bank account due to insufficient funds, you can follow the process outlined in the \"Unpaid Securities Process\" section of the retrieved documents. Under this new process, if you have purchased securities but failed to make payment resulting in a negative balance in your trading ledger, the unpaid securities will be transferred to your demat account on the T+1 day upon receipt of payout from the exchange. These securities will be automatically marked for pledge against the Client Unpaid Securities Pool Account (CUSPA). This process ensures that the unpaid securities are accounted for and helps in resolving the negative balance issue in your bank account."
+    },
+    {
+        "query": "Why am I not able to do enrollment and trading?",
+        "agent_solution": "The agent suggested that the customer should coordinate with their Relationship Manager (RM) to resolve the issue, as the closure request is pending and the RM has the details.",
+        "actual_answer": "Based on the retrieved documents, it seems that you may be facing issues with enrollment and trading due to various reasons. One possible reason could be related to the activation process of your account. If your Know Your Customer (KYC) verification is not complete, it may be causing a delay in activating your account for trading purposes. \n\nTo resolve this issue, you can ensure that all required documents for KYC verification have been submitted. Once your KYC is verified, your account should be active within T+7 working hours. If you have not received any emails regarding the activation process or if you have further questions, you can contact the customer support team at care@choiceindia.com or call (+91) 88-2424-2424 for assistance.\n\nAdditionally, if you are trying to enroll or trade in specific segments such as commodities or currencies without the necessary accounts, it may also be causing restrictions. It is important to have the appropriate accounts opened based on your trading requirements to ensure a smooth enrollment and trading experience.\n\nIf you require further assistance or clarification on this matter, feel free to reach out to the customer care team mentioned above for personalized support."
+    },
+    {
+        "query": "I put a request for closure, but it got closed automatically without any call or response. What should I do?",
+        "agent_solution": "The agent clarified that the closure request is not closed but pending, and the customer should coordinate with their RM. The agent also offered to provide a link to assist with the process.",
+        "actual_answer": "Based on the retrieved documents, it seems like your request for closure might have been automatically processed without any prior communication. In such a situation, it is advisable to reach out to the Choice Techlab customer support team to inquire about the status of your closure request. You can contact them via phone, email, or any other communication channel provided by Choice Techlab. By directly contacting the customer support team, you can seek clarification on why your request was processed automatically and discuss any further steps that may be required to address the issue effectively."
+    },
+    {
+        "query": "I have received an email for a back office report, but the way the report is sent is not right. You can't do anything with that report, so I want to talk to the back office only.",
+        "agent_solution": "The agent asked for clarification on which report the customer wanted and suggested that the customer could open the report from yesterday to understand its contents.",
+        "actual_answer": "Based on the retrieved documents, it seems like you are facing an issue with the way a back office report was sent to you via email. If you are unable to take any action with the report and wish to communicate directly with the back office, I recommend reaching out to the back office team at Choice Techlab for further assistance. You can contact them via email at care@choiceindia.com or by calling them at (+91) 88-2424-2424. They should be able to address your concerns regarding the report and provide you with the necessary support."
+    },
+    {
+        "query": "What is the difference between a PDF report and an Excel report?",
+        "agent_solution": "The agent explained that you can't copy and paste in PDF, but you can download it in Excel. The customer mentioned that it's possible to convert PDF to Excel using Google, but the format is strange.",
+        "actual_answer": "I'm sorry, but I couldn't find specific information in the retrieved documents about the difference between a PDF report and an Excel report. Would you like me to assist you with any other query or information?"
+    },
+    {
+        "query": "The date is missing in the Excel report, and I am getting a lot of confusion. Can you send me the mail format in Excel with which I can filter and check it?",
+        "agent_solution": "The agent suggested converting the downloaded report into a CSV format or accessing it through the app if possible. They also mentioned that the customer could revert to the mail format in Excel for filtering and checking.",
+        "actual_answer": "I'm sorry, but I couldn't find a specific solution to your query in the retrieved documents. It seems like the information you are looking for is not available in the provided content. I recommend checking your Excel report settings to ensure that the date column is included in the report. If you need further assistance, please provide more details so I can better assist you."
+    },
+    {
+        "query": "What should I write in the report? What is the name of the first PDF report, and what is the name of the Excel one?",
+        "agent_solution": "The agent did not provide a direct solution to this query in the transcript.",
+        "actual_answer": "To write a report, you can include the following information:\n\n1. **Portfolio Overview**: Provide a detailed breakdown of your trading and investment activity, including information on your holdings categorized into Stock, Mutual Fund, and Baskets. Include details such as the current market value, invested value, daily profit and loss, and overall profit and loss figures.\n\n2. **Understanding Contract Notes**: Mention that a contract note is a statement detailing your trades executed during the day, including timestamps, trade details, statutory charges, and your Debit/Credit Balance. Regularly reviewing your contract notes can help you stay informed about your trading activities.\n\nRegarding the names of the reports:\n\n- The name of the first PDF report is \"Understanding Contract Notes.\"\n- The name of the Excel report is not specified in the retrieved documents. If you need an Excel report, you may consider customizing the data from your Portfolio Overview or Historical Trades for a Specific Period into an Excel format for further analysis or presentation."
+    },
+    {
+        "query": "The reports got invalidated for me. Can you forward it to the mail right now?",
+        "agent_solution": "The agent mentioned that the tag timing is around 48 hours, and it will take 2-3 days to get it back. The customer insisted on sending it to the mail, and the agent agreed to mention it in the mail.",
+        "actual_answer": "I'm sorry, but based on the retrieved documents, I couldn't find specific information related to reports getting invalidated and forwarding them to an email. It seems like the issue you're facing might not be covered in the provided documents. I recommend reaching out to the appropriate support team or your Relationship Manager for assistance with this particular query."
+    },
+    {
+        "query": "Are you going to square off or sell the month expiry positions?",
+        "agent_solution": "The agent informed the customer that all the scripts have been squared off and there are no open positions. The customer should not buy or sell anything now due to a technical issue causing incorrect reflections.",
+        "actual_answer": "Based on the retrieved documents, if you fail to clear your debit amount within 7 days of the transaction date, the platform reserves the right to sell off your holdings to recover the outstanding debit amount. Additionally, new buy positions in OTM stock option contracts for the current month's expiry will be blocked on Wednesday and Thursday, and if the client does not have sufficient margin for ITM positions, the position will be auto-squared off. Therefore, in the context of month expiry positions, the platform may either sell off the holdings or auto-square off the positions based on the specific circumstances and requirements."
+    },
+    {
+        "query": "What do you put in minus? Like, one goes to plus and one goes to minus.",
+        "agent_solution": "The agent explained that when buying and selling, a limit or stop-loss can be set. For a limit order, the price is set above the current market price. The stop-loss is the trigger price, which is set below the current market price.",
+        "actual_answer": "To address your query about what to put in minus, in the context of trading positions and option strategies, when you are considering a trade involving both a positive and negative position, you might be referring to strategies like the Bear Put Spread. \n\nIn the Bear Put Spread strategy, you would typically buy a put option with a lower strike price (going to plus) and sell a put option with a higher strike price (going to minus). This strategy allows investors to potentially benefit from a moderate decrease in the underlying asset's price.\n\nUnderstanding these types of option strategies can help you diversify your portfolio and take advantage of market movements in both positive and negative directions."
+    },
+    {
+        "query": "When I order it, where will I get a kilo of oil?",
+        "agent_solution": "The agent clarified that there is no order for punch now. The customer needs to set a limit or stop-loss, with the stop-loss being the trigger price, indicated with a plus sign.",
+        "actual_answer": "I'm sorry, but I couldn't find any relevant information in the retrieved documents to answer your query about where to get a kilo of oil when ordering it. If you have any other questions or need assistance with something else, please feel free to ask."
+    },
+    {
+        "query": "The bill has not been generated yet, and the settlement has not been done yet.",
+        "agent_solution": "The agent advised the customer to wait until 6 o'clock in the evening for the bill to be generated, as the settlement has not been completed yet.",
+        "actual_answer": "Based on the retrieved documents, it seems like the user query is related to the delay in bill generation and settlement. In this case, it is important to ensure that the bill is generated and settlement is completed in a timely manner to avoid any issues such as delayed payment charges or impact on trading activities.\n\nTo address this issue, you should contact the relevant department or service provider responsible for generating the bill and completing the settlement process. Make sure to follow up with them to expedite the process and avoid any potential consequences mentioned in the documents, such as delayed payment charges or impact on trading activities.\n\nIf you are facing challenges in getting the bill generated or settlement completed, you may consider reaching out to customer support for assistance and clarification on the status of the bill and settlement process. It is crucial to resolve this issue promptly to prevent any further complications."
+    },
+    {
+        "query": "My phone is not working. Can I give you my mobile number?",
+        "agent_solution": "The agent asked the customer to hang up and mentioned they would check the account registered under the name of Mamta Sandeep Thakur.",
+        "actual_answer": "I'm here to assist you with account-related queries. If you're facing issues with your phone, unfortunately, I won't be able to troubleshoot that for you. However, if you have any questions or need help related to your Choice Techlab account, feel free to ask!"
+    },
+    {
+        "query": "I am not able to log in to the website finx.choiceindia.com. It is rotating continuously and has been like this for a month.",
+        "agent_solution": "The agent suggested the customer try logging in from their mobile application to see if the issue persists there. They also asked the customer to take a screenshot of the issue on the PC and email it to customercare@choiceindia.com for further assistance.",
+        "actual_answer": "It seems like you are facing an issue with logging in to the website finx.choiceindia.com, where the page is continuously rotating and has been like this for a month. This could be due to various reasons such as browser cache issues, network connectivity problems, or website maintenance issues.\n\nHere are a few steps you can try to resolve this issue:\n1. Clear your browser cache and cookies: Sometimes, stored cache and cookies can cause login issues. Clearing them might help in resolving the problem.\n2. Check your internet connection: Ensure that you have a stable internet connection to access the website without any interruptions.\n3. Try using a different browser: If the issue persists, try accessing the website using a different web browser to see if the problem is browser-specific.\n4. Contact customer support: If none of the above steps work, you can reach out to the customer support team at care@choiceindia.com or call (+91) 88-2424-2424 for further assistance in resolving the login issue.\n\nIf the problem continues, it's recommended to contact the customer support team for personalized assistance in resolving the login issue on the finx.choiceindia.com website."
+    },
+    {
+        "query": "The customer was charged a brokerage fee of Rs. 50 per lot, but was initially informed it would be Rs. 20 per lot. Why is there a discrepancy?",
+        "agent_solution": "The agent clarified that the brokerage fee for options is Rs. 25 per lot, not Rs. 50 as the customer mentioned. The customer was misinformed initially, and the agent confirmed the current brokerage rate.",
+        "actual_answer": "The customer may have been charged a brokerage fee of Rs. 50 per lot instead of the initially informed Rs. 20 per lot due to various reasons such as additional charges like RMS square off charges, invocation charges, stamp duty charges, unpledge charges, or pledge charges that may have been applicable to the transaction. It's important to review the detailed list of brokerage charges provided on the Choice Techlab website to understand all the charges associated with trading on the platform. If you require further clarification on the discrepancy in the brokerage fee charged, you can reach out to the dedicated customer care team at customercare@choiceindia.com for assistance."
+    },
+    {
+        "query": "The customer filed a complaint about the brokerage charges but hasn't received any help or response yet. What should be done?",
+        "agent_solution": "The agent acknowledged the complaint and provided the customer with a complaint number (4780342). The agent assured the customer that the request is still open and promised to send a reminder to the team to expedite the resolution.",
+        "actual_answer": "If a customer has filed a complaint about brokerage charges and has not received any help or response yet, they can reach out to the dedicated customer care team at Choice Techlab for assistance. The customer can email their concerns to customercare@choiceindia.com, and the team will be happy to guide them through the process and address their complaint regarding brokerage charges. It is important to provide all relevant details and information in the email to ensure a prompt and effective resolution to the issue."
+    },
+    {
+        "query": "The customer mentioned that the RM promised to recover the shares but hasn't done so. What is the status of this recovery?",
+        "agent_solution": "The agent confirmed that the team is coordinating with the RM, but there has been no response yet. The agent assured the customer that they would send a reminder to the team to follow up on the recovery process.",
+        "actual_answer": "Based on the information provided in the retrieved documents, if the customer's RM promised to recover the shares but hasn't done so, it seems that the pledged shares will be squared off to recover any outstanding amounts. This means that the pledged shares will be sold to cover the unpaid portion, ensuring that the margin requirements are met and minimizing any potential losses. If the customer fails to make the payment of the MTM Losses/Margin Shortfall within the stipulated time, Choice Techlab reserves the right to square off the pledged shares. It is advisable for the customer to reach out to Choice Techlab to inquire about the status of the recovery of the pledged shares."
+    },
+    {
+        "query": "The customer asked for guidance on where to send additional evidence related to their complaint.",
+        "agent_solution": "The agent instructed the customer to reply to the customer service page with the complaint number provided. The agent also offered to send a reminder to ensure the evidence is reviewed.",
+        "actual_answer": "To provide additional evidence related to a complaint, the customer can reach out to the Share Registrar Agent. The Share Registrar Agent is the authorized contact for addressing all grievances related to the IPO process, including issues with share allotment and refund delays. The customer can send the additional evidence to the Share Registrar Agent for further assistance and resolution of their complaint."
+    },
+    {
+        "query": "The customer asked about the process and timeline for the return of unused money deposited in the National Stock Exchange.",
+        "agent_solution": "The agent explained that there is no specific refund process for unused money. If the customer wants to initiate a payout, they can do so through the application at any time. Quarterly payouts are given if there is no trading for a long time, as per city norms and exchange rules. The customer can withdraw funds before the quarterly payout if desired.",
+        "actual_answer": "Based on the retrieved documents, the process and timeline for the return of unused money deposited in the National Stock Exchange (NSE) is as follows:\n\n1. **Payment Deadline and Risk Management**: If payment is not made within T+1+5 (i.e., T+6) days, the risk management team will sell the unpaid securities in accordance with the RMS policy. These securities will be invoked into the CUSPA account to meet the exchange\u2019s securities pay-in obligation.\n\n2. **Unpaid Securities Process**: Under the new process, if you purchase securities but fail to make payment, resulting in a negative balance in your trading ledger, the unpaid securities will be transferred to your demat account. This will happen on the T+1 day (settlement day) upon receipt of payout from the exchange. These securities will be automatically marked for pledge against the Client Unpaid Securities Pool Account (CUSPA).\n\nTherefore, if you have deposited money with the National Stock Exchange (NSE) and it remains unused or if you fail to make payment for securities purchased, the process involves transferring the unpaid securities to your demat account and marking them for pledge against the CUSPA account. The timeline for this process is typically within T+1 day after the settlement day.\n\nPlease ensure timely payment to avoid the risk of securities being sold or transferred as per the exchange's policies and regulations."
+    },
+    {
+        "query": "The customer inquired if the money would be returned in January for the quarter of October, November, and December.",
+        "agent_solution": "The agent stated that they cannot comment on the exact timing as it depends on the exchange's instructions. However, if a request is made before the specified time, the funds will be credited to the customer's account.",
+        "actual_answer": "Based on the retrieved documents, the information regarding the return of money in January for the quarter of October, November, and December is not explicitly mentioned. However, if you are referring to the redemption or maturity process of certain investments or funds, it is advisable to check the specific terms and conditions related to those investments or funds. Typically, redemption or maturity proceeds are credited to the investor's bank account upon maturity based on the terms outlined in the investment agreement. If you have specific investments in mind, it would be best to refer to the respective investment documents or contact the customer support of the investment provider for detailed information regarding the return of funds for the mentioned quarter."
+    },
+    {
+        "query": "The customer wanted to know the name of the scheme related to the quarterly payouts.",
+        "agent_solution": "The agent mentioned that the scheme is initiated by a separate department and is provided by default. If the customer does not want the payout, it will still be credited, and they will have to add the funds back later.",
+        "actual_answer": "The scheme related to the quarterly payouts mentioned in the retrieved documents is called \"Baskets.\" Baskets are a unique investment opportunity that offers instant exposure to specific themes or sectors with expertly managed diversified portfolios. These Baskets are rebalanced quarterly to ensure alignment with the latest market trends."
+    },
+    {
+        "query": "The customer asked about the cost of broking.",
+        "agent_solution": "The agent requested the customer's registered mobile number and client ID to provide specific information, but the customer was unable to provide these details during the call.",
+        "actual_answer": "The cost of broking at Choice Techlab is transparent and clearly outlined on our website. We do not charge any additional fees for services such as Call & Trade or investing in Baskets. Instead, we apply our standard brokerage rate, which can be viewed on our website. We take pride in providing cost-effective trading experiences with no hidden charges. If you require further clarification on our fee structure, feel free to reach out to our dedicated customer care team at customercare@choiceindia.com."
+    },
+    {
+        "query": "I have created a trade in your app, but that trade is not failing. What is the problem?",
+        "agent_solution": "The agent checked and found that the limit exists for F2, U4, C, quantity 0. The customer has two cells, and if they keep cracking it repeatedly, it won't work. The agent suggests checking the quantity and ensuring the trade is executed correctly.",
+        "actual_answer": "It seems like the trade you created in the app is not failing. One possible reason for this could be that the trade is still pending or partially executed. You can check the status of your trade by navigating to the \"Orders\" section within the Positions Tab of the app. Look for the specific trade in the Pending or Executed orders categories to see if there are any issues with the trade execution. If you are unable to find the trade or need further assistance, you can contact our customer support team at care@choiceindia.com or call us at (+91) 88-2424-2424 for further assistance."
+    },
+    {
+        "query": "When will the money for the sale come?",
+        "agent_solution": "The agent informed the customer that the money for the sale will come tomorrow. It follows the settlement process, which is trading plus one day.",
+        "actual_answer": "The money for the sale will typically come on the settlement day, which is usually T+2 (Trade Date plus 2 business days). After selling securities, the funds from the sale will be credited to your trading account on the settlement day. It's important to ensure that you have provided the necessary details for fund transfers to avoid any delays in receiving the sale proceeds."
+    },
+    {
+        "query": "Why not today?",
+        "agent_solution": "The agent explained that if the customer bought the stock on the 1st and sold it on the 2nd, they would get 80% of the amount immediately. However, since the customer bought it on the 2nd and is selling it today, they will not receive 80% immediately.",
+        "actual_answer": "I'm sorry, but I couldn't find any relevant information in the retrieved documents to address the query \"Why not today?\". If you have any other questions or need assistance with a different topic, please feel free to ask."
+    },
+    {
+        "query": "Can you reduce the charges of brokerage?",
+        "agent_solution": "The agent informed the customer that to reduce the charges of brokerage, they should contact their relationship manager, who can assist in reducing the brokerage charges.",
+        "actual_answer": "To reduce the charges of brokerage, you can consider the following options:\n\n1. Review the brokerage charges listed on the Choice Techlab website: Choice Techlab prides itself on transparency in its fee structure. By visiting their website and reviewing the detailed list of brokerage charges, you can gain a better understanding of the fees associated with trading on their platform.\n\n2. Contact the dedicated customer care team for assistance: If you need further clarification or assistance in understanding the cost structure and how to potentially reduce brokerage charges, you can reach out to Choice Techlab's customer care team by emailing them at customercare@choiceindia.com. They will be happy to guide you through the process and provide relevant information.\n\n3. Explore alternative trading strategies: Consider exploring different trading strategies such as bulk trading, long-term investing, or hedging to potentially reduce the frequency or volume of trades, which could help in lowering brokerage charges over time.\n\nBy taking these steps and being proactive in understanding the fee structure, you may be able to effectively reduce the charges of brokerage while trading on the Choice Techlab platform."
+    },
+    {
+        "query": "What is the difference between stop loss and stop loss?",
+        "agent_solution": "The agent explained that when a share is bought with a stop loss, the position of the script will be shown. The customer needs to go to the position, click on it, and then choose the sell option. An interface will open where the customer can enter the price, quantity, and amount. The stop-loss price should be entered, and below that, a trigger price should also be set.",
+        "actual_answer": "The difference between stop loss and stop loss lies in their specific functionalities within trading. \n\n- **Stop-Loss Order Overview**: A Stop-Loss (SL) Order is used to protect against losses due to unexpected market changes. It specifies the price at which the client is willing to sell a security after incurring a certain loss.\n\n- **Stop-Loss Trigger Price**: The Trigger Price for a Stop-Loss Order is the price at which the order becomes active. When the market price reaches the trigger price, the SL order is executed.\n\nIn summary, a stop-loss order sets a price at which a security should be sold to limit losses, while the stop-loss trigger price is the specific price point that activates the stop-loss order."
+    },
+    {
+        "query": "I placed an order yesterday and tried to execute it today, but it didn't happen. Why is that?",
+        "agent_solution": "The agent checked and confirmed that the order was executed at 11:06, and 300 quantities were sold. The order was executed, but the trading balance is not showing because it will show in today's position and not after settlement.",
+        "actual_answer": "Based on the information provided in the retrieved documents, it seems like you may have placed an After Market Order (AMO) yesterday. AMO orders are held by the broker until 8:58 AM of the next trading day, after which they are sent to the stock exchange at 9:00 AM. The orders are then executed at the opening market rate when the stock exchange opens at 9:15 AM.\n\nTherefore, if you tried to execute your order today before 9:15 AM, it may not have been processed yet as the AMO orders are executed at the opening market rate. It is recommended to wait until after 9:15 AM for your order to be executed based on the information provided regarding the AMO process."
+    },
+    {
+        "query": "Why is the trading balance not showing in CFS?",
+        "agent_solution": "The agent explained that the trading balance will show in today's position, and if there is a settlement tomorrow, it will not show in position. The trade value and overall profit and loss will keep changing.",
+        "actual_answer": "I'm sorry, but I couldn't find any specific information in the retrieved documents regarding why the trading balance may not be showing in CFS. It's possible that the trading balance not showing in CFS could be due to a technical issue or delay in updating the information. I recommend reaching out to the customer support team at CFS for assistance in resolving this issue. They will be able to provide you with the most accurate and up-to-date information regarding your trading balance in CFS."
+    },
+    {
+        "query": "I bought Anmol stock yesterday, why is my fund not released today?",
+        "agent_solution": "The agent informed that if trading in BTST (Buy Today, Sell Tomorrow), the fund is not released on the same day. The fund will be released on the settlement date, which is the next day.",
+        "actual_answer": "Based on the information provided in the retrieved documents, it is possible that the delay in releasing your funds could be due to the fact that your payout is not yet due or there may have been new positions taken during the day which could impact your available balance. Additionally, if you have open positions that are currently incurring losses, this could also contribute to the delay in releasing your funds. It is recommended to review your recent transactions and positions to understand the specific reason for the delay in fund release. If you require further assistance, you can reach out to our customer support team for personalized help."
+    },
+    {
+        "query": "Can the sale be canceled if I bought the stock yesterday and sold it today?",
+        "agent_solution": "The agent clarified that since the stock has been sold, it cannot be canceled. The fund will be released the next day, and if there is a shortfall for another purchase, additional funds can be added.",
+        "actual_answer": "Based on the retrieved documents, the sale of a stock cannot be canceled if you bought the stock yesterday and sold it today. Once a stock is sold, the transaction is considered final and cannot be reversed. It is important to carefully consider your decisions before executing a sale transaction to avoid any unwanted consequences."
+    },
+    {
+        "query": "Why is the balance showing as Rs. 6,168 not available for trading?",
+        "agent_solution": "The agent explained that the balance is not available for trading immediately. If the customer wants to purchase something else, they need to add funds separately to cover any shortfall.",
+        "actual_answer": "Based on the retrieved documents, the balance of Rs. 6,168 not being available for trading could be due to various reasons. One possible reason could be that the user may have open or carry-forward positions that are currently attracting mark-to-market (MTM) losses, which can impact the available balance for trading. Additionally, if there are any outstanding dues or charges such as Annual Maintenance Charges (AMC) or other transaction fees, it could also affect the available balance for trading.\n\nIt is recommended for the user to review their account statements, check for any pending dues or charges, and ensure that there are no open positions causing losses that are affecting the available balance for trading. If the issue persists, contacting the customer support team of the trading platform for further assistance and clarification would be advisable."
+    },
+    {
+        "query": "I am not able to trade in the MCA option. My order is being rejected.",
+        "agent_solution": "The agent asked the customer to place an order to identify the error causing the rejection. They mentioned that they cannot check past orders and need a current order to diagnose the issue.",
+        "actual_answer": "Based on the information provided in the retrieved documents, it seems that you might be facing issues with trading in the MCA (Market Cash Account) option due to possible reasons such as insufficient funds, incorrect order details, or technical glitches. Here are some steps you can take to troubleshoot and resolve the issue:\n\n1. **Check Account Balance**: Ensure that you have sufficient funds available in your trading account to place the order for the MCA option.\n\n2. **Verify Order Details**: Double-check the order details you are entering, including the quantity, price, and order type, to make sure they are accurate and within the permissible limits.\n\n3. **Technical Support**: If you continue to face rejection while placing the order, you can reach out to the customer support team at care@choiceindia.com or call (+91) 88-2424-2424 for assistance. They can help troubleshoot the issue and provide guidance on how to proceed with trading in the MCA option.\n\nBy following these steps and seeking assistance from the customer support team, you should be able to address the issue of your order being rejected while trying to trade in the MCA option."
+    },
+    {
+        "query": "Should I buy from the market or should I place a limit order for crude oil at Rs. 5800?",
+        "agent_solution": "The agent suggested placing a limit order since the market order was not successful previously. They confirmed that the limit order was successful.",
+        "actual_answer": "Based on the information provided in the retrieved documents, if you want to buy crude oil at a specific price of Rs. 5800, you should consider placing a Limit Order. \n\nA Limit Order allows you to set a specific price at which you want to buy or sell a stock or contract. By placing a Buy Limit Order at Rs. 5800 for crude oil, you can control the exact price at which your order will be executed. This means that your order will only be executed if the price of crude oil reaches Rs. 5800 or lower.\n\nOn the other hand, a Market Order executes at the current market price immediately. If you are particular about buying crude oil at Rs. 5800 or lower, a Limit Order would be more suitable for your requirement.\n\nTherefore, in this scenario, it is recommended to place a Buy Limit Order for crude oil at Rs. 5800 to ensure that you purchase it at your desired price level."
+    },
+    {
+        "query": "Has my order been sold or what?",
+        "agent_solution": "The agent confirmed that the order has been executed and the customer has signed the 820T, indicating that the order has been sold.",
+        "actual_answer": "Based on the retrieved documents, it seems like you are inquiring about whether your order has been sold or not. To check if your order has been sold, you can review your transaction history with the platform where you placed the order. Look for any notifications or updates regarding the status of your order. Additionally, you can contact the customer support of the platform or your broker for assistance in confirming the status of your order."
+    },
+    {
+        "query": "When will I get the balance back?",
+        "agent_solution": "The agent explained that the amount will settle in T plus 1 day, and the settlement team works on T plus 2. The customer should expect the amount to be settled by the next day.",
+        "actual_answer": "Based on the retrieved documents, it seems like your query is related to the balance in your account. If you are referring to a balance related to a withdrawal or payout amount, typically, once the withdrawal (payout) is successfully processed, it usually gets credited to your account within 24 hours. However, if you are inquiring about the balance in terms of maintaining a minimum balance to keep your account active, Choice Techlab does not have any minimum balance requirements to keep your account active. This provides you with the flexibility to manage your account without worrying about maintaining a minimum balance."
+    },
+    {
+        "query": "Do I have to process anything from here?",
+        "agent_solution": "The agent assured the customer that they do not need to process anything further as the money has already been paid and the amount will be settled the next day.",
+        "actual_answer": "Based on the retrieved documents, it seems like the user query \"Do I have to process anything from here?\" does not have a direct answer in the provided information. However, if you are referring to any specific process or action related to holding transfers, dividend tracking, IPO grievances, basket exits, offline transfer processes, MTF activation, contract notes, rights issue applications, fund withdrawals, or collateral limits on shares, please provide more details so that I can assist you accordingly."
+    },
+    {
+        "query": "Why is it showing profit and loss as minus?",
+        "agent_solution": "The agent explained that the settlement team decides the charges, including brokerage and taxes, which affect the profit and loss display. The margin is neutralized, and all charges are included in the displayed amount.",
+        "actual_answer": "The profit and loss showing as minus in your trading positions could be due to the current market value of your positions being lower than the invested value. This results in a negative overall gain or loss figure. To investigate further and understand why your profit and loss are negative, you can review the details of each trade in the Positions Tab of the app. Check if there have been any recent market movements or specific trades that have contributed to the negative P&L. Additionally, you can analyze the booked P&L and overall profit and loss to identify any potential reasons for the negative values. If you need assistance in analyzing specific trades or transactions, you can utilize the search box and filter options available in the Positions Tab to locate and review the relevant details."
+    },
+    {
+        "query": "My major bonus was Rs. 34,000 in minus. I sold Rs. 120,000 worth of goods outside. How are you showing me the fund in minus?",
+        "agent_solution": "The agent explained that if the customer sold the goods today, the settlement would occur tomorrow, which is why the funds are still showing as minus.",
+        "actual_answer": "I'm sorry, but I couldn't find any relevant information in the retrieved documents to address your query about showing funds in minus due to a major bonus and selling goods outside. It seems like your query might be related to personal financial transactions or accounting, which may not be covered in the provided documents. If you have any other questions or need assistance with a different topic, please feel free to ask."
+    },
+    {
+        "query": "I sold it on the 3rd for 2,36,420, so it's 33 minus now. And I sold it today, MM Laser balance 134 minus 11. How come I don't have the balance?",
+        "agent_solution": "The agent clarified that the funds from today's sale have not yet been received, which is why the balance is still showing as minus.",
+        "actual_answer": "Based on the information provided in the retrieved documents, it seems like you are referring to the balance in your trading account after selling certain shares. To address your query about the discrepancy in your balance, it's important to consider a few factors:\n\n1. **Market Fluctuations**: The value of shares can fluctuate based on market conditions. If the share price decreased between the time you sold the shares on the 3rd and today, it could explain the decrease in your balance.\n\n2. **Charges and Fees**: There might be charges or fees associated with trading activities, such as brokerage fees, transaction charges, or other applicable fees. These deductions could impact your overall balance.\n\n3. **Margin Requirements**: If you have pledged shares or used them as collateral for trading, the margin requirements and any adjustments made against the pledged shares could affect your available balance.\n\n4. **Order Execution**: The execution of your sell orders, including any pending orders or partial executions, could also influence the final balance in your account.\n\nTo get a clearer understanding of the specific reasons for the balance discrepancy, I recommend reviewing your transaction history, trade confirmations, and any applicable charges or deductions associated with your recent trades. Additionally, you may consider reaching out to your broker or the customer support team at Choice Techlab for a detailed breakdown of your account activity and balance adjustments."
+    },
+    {
+        "query": "So, I don't have the funds now? Will it come in the next few days?",
+        "agent_solution": "The agent confirmed that the funds have not yet been received and that the MTF balance is different from the current transaction.",
+        "actual_answer": "Based on the information provided in the retrieved documents, if you are waiting for funds to be credited to your account, it typically takes a short period of time to process and credit to your registered bank account. Once the withdrawal (payout) is successfully processed, it usually gets credited to your account within 24 hours. Therefore, if you are expecting funds, you should receive them within a day once the processing is complete."
+    },
+    {
+        "query": "How many charges are you collecting from each side?",
+        "agent_solution": "The agent explained that the brokerage rate is 0.4% in delivery and 0.04% in internal. Options are charged at 30 rupees per lot, and commodities are charged at 50 rupees per lot for both buying and selling.",
+        "actual_answer": "To determine the number of charges collected from each side, we need to analyze the information provided in the retrieved documents related to account charges, trading charges, and other applicable fees.\n\nBased on the information provided in the documents, here is a breakdown of the charges collected from each side:\n\n1. **Choice Techlab (Trading Platform) Charges:**\n   - Call and Trade Charges: No additional fees\n   - RMS Square Off Charge: Rs. 20 per transaction/ISIN\n   - Invocation Charge: Rs. 12.50 + GST\n   - Stamp Duty: 0.015% of the sale value\n   - DP Charge: \u20b910 + 18% GST per day and per stock\n   - Brokerage Charges: Detailed list accessible on the website\n\n2. **HUF Account Charges:**\n   - Charges determined by Demat Charges as per the Corporate Scheme\n\n3. **IPO Application Charges:**\n   - No charges to apply for an IPO through Choice Techlab\n\n4. **Shares as Collateral Charges:**\n   - MTM, Brokerage, and Other Charges: Cannot be directly settled against collateral limits, but can be settled by selling collateral shares if needed\n\nIn summary, Choice Techlab collects various charges from traders and investors, including RMS Square Off Charge, Invocation Charge, Stamp Duty, DP Charge, Brokerage Charges, and charges determined by the Corporate Scheme for HUF accounts. However, there are no charges for applying for an IPO through Choice Techlab. Additionally, charges like MTM, Brokerage, and Other Charges in collateral-backed transactions are not directly settled against collateral limits but can be settled by selling collateral shares if required."
+    },
+    {
+        "query": "What is my email ID now?",
+        "agent_solution": "The agent confirmed the email ID as cp46@gmail.com and mentioned that it can be modified through the application by going to the profile section and updating the contact information.",
+        "actual_answer": "To find your email ID associated with your Choice account, you can follow these steps:\n\n1. If you have forgotten your login ID, you can retrieve it by sending an email to care@choiceindia.com and including your PAN number. The support team will promptly respond with your login ID.\n\n2. Alternatively, you can visit https://finx.choiceindia.com/support to connect with the support team and inquire about your email ID.\n\n3. Once you have your login ID, you can access your Choice account and view your email ID along with other account details.\n\nIf you are unable to retrieve your email ID using the above methods, you can reach out to the Choice support team for further assistance."
+    },
+    {
+        "query": "How can I update my email ID?",
+        "agent_solution": "The agent instructed the customer to go to the application, click on the profile where the username is shown, select 'Profile Modification,' enter the client name, verify the OTP, and update the contact information. The update will take 24 hours to process.",
+        "actual_answer": "To update your email ID, you can follow these steps:\n\n1. Log into your Choice account on the Choice App.\n2. Navigate to the 'Profile' section.\n3. Look for the option to modify your contact information.\n4. Update your email ID with the new one.\n5. Save the changes.\n\nIf you encounter any difficulties during this process, you can reach out to our dedicated support team by sending an email to care@choiceindia.com. Make sure to include your PAN number for verification purposes. Our team will assist you promptly with updating your email ID."
+    },
+    {
+        "query": "I need the statement right now, how can I get it?",
+        "agent_solution": "The agent advised that the email ID needs to be updated first, and once updated, the customer can request the statement by emailing customercare.edgarage@choiceindia.com.",
+        "actual_answer": "To get the statement right now, you can easily access it by logging into your account on the Choice App. Once you are logged in, navigate to the 'Holding' section where you can view a comprehensive overview of your investment portfolio. If you need further assistance or have any specific queries regarding the statement, feel free to reach out to our customer support team for immediate help."
+    },
+    {
+        "query": "Can I send a text message or use WhatsApp for communication?",
+        "agent_solution": "The agent informed that WhatsApp is not allowed, and communication should be done through the email ID customercare@choiceindia.com. The customer can also request support through the system by going to the support section.",
+        "actual_answer": "I'm sorry, but based on the retrieved documents, there is no specific information regarding sending text messages or using WhatsApp for communication with Choice Techlab. If you have any other questions or need assistance with different topics, please feel free to ask."
+    },
+    {
+        "query": "The referral is not showing in the application. Why is it not showing?",
+        "agent_solution": "The agent explained that for the referral to show in the application, the referred person must first open an account and then perform a trade with a minimum value of 50 rupees. Once these conditions are met, the referral will reflect in the system within 24 hours.",
+        "actual_answer": "Based on the retrieved documents, it seems like the user query is related to a specific issue with a referral not showing in the application. Unfortunately, there is no direct information available in the retrieved documents that addresses this specific scenario. \n\nTo troubleshoot why the referral is not showing in the application, it is recommended to check the referral process within the application. Ensure that all necessary steps for adding a referral have been followed correctly. If the referral feature is not functioning as expected, you may need to reach out to the customer support of the application or platform for further assistance and clarification on why the referral is not showing up."
+    },
+    {
+        "query": "Can you check and tell me the numbers of the people I have called?",
+        "agent_solution": "The agent informed the customer that they cannot check the numbers from their end because the customer shares links, and they do not have access to that data. However, if the customer provides a mobile number, the agent can call from their end.",
+        "actual_answer": "I'm sorry, but based on the retrieved documents, there doesn't seem to be information related to checking and telling the numbers of the people you have called. If you need assistance with a different query or topic, please feel free to ask."
+    },
+    {
+        "query": "I was about to pledge my shares in my holding, but they are not pledging. What's the matter?",
+        "agent_solution": "The agent asked the customer to provide a screenshot of the error page so that they can assist as early as possible.",
+        "actual_answer": "It seems like your shares are not pledging because pledged shares cannot be lent under the SLBM (Securities Lending and Borrowing Mechanism). In order to pledge your shares, you will need to ensure that they are unpledged first. Once the shares are unpledged, you should be able to proceed with pledging them successfully."
+    },
+    {
+        "query": "I can't get my phone number at the end of the day. This is not your registered mobile number.",
+        "agent_solution": "The agent asked for the registered mobile number to check the issue.",
+        "actual_answer": "It seems like you are facing an issue with updating your phone number at the end of the day and it's not reflecting as your registered mobile number. To resolve this, you can follow the steps mentioned in the document \"Section: Modifying Client Contact Information\". It states that mobile number modifications can be done on the review page at the last stage of the pending link during onboarding. If you are unable to update your phone number through this process, you can reach out to the customer support team at care@choiceindia.com or call (+91) 88-2424-2424 for further assistance."
+    },
+    {
+        "query": "Can you provide us a recording where we can access your offline account?",
+        "agent_solution": "The agent stated that they do not have access to the offline account and cannot solve the problem without it.",
+        "actual_answer": "I'm sorry, but based on the retrieved documents, there is no information available regarding accessing an offline account through a recording. If you need assistance with offline modifications, such as bank details, nominee, contact, or address changes, you would need to send the offline modification form to the Head Office as mentioned in the document. If you have any other queries or need further assistance, please feel free to ask."
+    },
+    {
+        "query": "Can you provide us a recording where we can access your online account?",
+        "agent_solution": "The agent stated that they do not have access to the online account and cannot solve the problem without it.",
+        "actual_answer": "I'm sorry, but based on the retrieved documents, there is no specific information available regarding providing a recording for accessing the online account. However, you can easily access your online account by logging in to the Choice App or the client-level Back Office. These platforms allow you to view and manage a comprehensive range of information related to your account. If you encounter any difficulties or need further assistance, you can reach out to the customer care team at customercare@choiceindia.com for guidance."
+    },
+    {
+        "query": "I have already attached it and sent it. No one has come after that.",
+        "agent_solution": "The agent asked for the ticket number to check the status and informed that the receipt is not being reflected.",
+        "actual_answer": "Based on the retrieved documents, it seems like your query might be related to the onboarding process. If you have already attached the necessary documents and no one has followed up with you, it could be helpful to reach out to the customer service team for assistance. They can provide support with address changes, early redemption, and other onboarding-related services. You can contact them to inquire about the status of your pending onboarding and ensure that your information is processed correctly."
+    },
+    {
+        "query": "Can I change my RN? Is it possible?",
+        "agent_solution": "The agent informed that the customer would need to mail proof of transfer to customercare@therealchoicecenter.com, and the transfer team will check the criteria for transferring the account.",
+        "actual_answer": "I'm sorry, but I couldn't find any information related to changing or modifying an RN (Registered Nurse) in the retrieved documents. Could you please provide more context or details so that I can assist you better?"
+    },
+    {
+        "query": "I want to open a new account. What is the procedure?",
+        "agent_solution": "The agent informed the customer that they can open a new account through the Choice Finx app or by visiting the website and signing up. After signing up, the customer needs to attach a digital locker or upload the necessary documents. They also need to verify their bank account by entering the bank details and uploading a financial cheque. Additionally, the customer must provide their mobile number and email ID. The process will guide them step by step, including receiving an OTP for verification.",
+        "actual_answer": "To open a new account with Choice Techlab, you can follow a seamless and hassle-free process that can be completed in a matter of minutes. Here is a step-by-step guide on how to proceed:\n\n1. Start by downloading and installing the user-friendly mobile app on your Android or iOS device, or access the website directly.\n2. Provide basic personal and contact information, including your PAN card, address proof, bank details, a recent photo, and other relevant contact information.\n3. Complete the entire sign-up process in under 5 minutes.\n4. Begin taking advantage of the innovative services and tools offered by Choice Techlab.\n\nIf you encounter any issues or have specific questions during the account opening process, feel free to reach out to the support team for assistance."
+    },
+    {
+        "query": "The app is loading when trying to log in.",
+        "agent_solution": "The agent suggested reinstalling the application after uninstalling it. They also mentioned that the issue is being raised with the Consent Department as many clients are facing this problem."
+    },
+    {
+        "query": "How to place an order urgently?",
+        "agent_solution": "The agent advised using the Call and Trade Facility to place an order urgently. They provided a contact number for this service: 88889999200200."
+    },
+    {
+        "query": "Can orders be placed from the branches?",
+        "agent_solution": "The agent clarified that orders can only be placed through the Call and Trade Facility and not from the branches. They emphasized not sharing credentials as per company policy."
+    },
+    {
+        "query": "I have made a transaction and it is not showing in my wallet.",
+        "agent_solution": "The agent confirmed the transaction amount of \u20b96,355 and assured the customer that they would raise the issue with the Consent Department to resolve the problem."
+    },
+    {
+        "query": "How much amount did you request?",
+        "agent_solution": "The customer requested an amount of $49.50."
+    },
+    {
+        "query": "When did you take it?",
+        "agent_solution": "The customer mentioned that it has been 3-4 days since the transaction, possibly on a Friday."
+    },
+    {
+        "query": "What success are you showing?",
+        "agent_solution": "The customer is inquiring about the status of a $1500 transaction that is not reflecting in their account."
+    },
+    {
+        "query": "Is it not in your account?",
+        "agent_solution": "The agent confirmed that the amount is not showing in the customer's account with the number ending in 1528."
+    },
+    {
+        "query": "How much brokerage and what charges have been imposed on my trades?",
+        "agent_solution": "The brokerage charges are Rs. 50, and additional charges are Rs. 100. The brokerage is imposed per lot, not per trade."
+    },
+    {
+        "query": "What is the loss on my crude oil trade?",
+        "agent_solution": "The loss on the crude oil trade is Rs. 5,100. The buying price was Rs. 171.50, and the selling price was Rs. 120.50, resulting in a loss of Rs. 51 per quantity. Multiplied by 100 quantities, the total loss is Rs. 5,100."
+    },
+    {
+        "query": "What is the total deduction from my account?",
+        "agent_solution": "The total deduction includes a loss of Rs. 5,140 in FX and Rs. 328 in FNO, leaving a balance of Rs. 9,668 in the account."
+    },
+    {
+        "query": "I don't understand the calculation of my account balance.",
+        "agent_solution": "The agent advises the customer to open their Ledger in the application to verify the calculations. The Ledger will show the correct amounts and reflect the proper deductions and balances."
+    },
+    {
+        "query": "I had put some money for withdrawal on Friday, and it is showing success, but the money has not yet come to the account. Why is this? When will it happen? How many days will it take?",
+        "agent_solution": "The agent checked the request and confirmed that the payout of Rs. 4200 has a confirmation date of today, 25-11-2024. The agent requested the customer to wait for today as the amount will be transferred to the account by evening. The success status indicates that the withdrawal request was successfully placed."
+    },
+    {
+        "query": "What are the brokerage charges for your company?",
+        "agent_solution": "The brokerage charges are 0.3% in delivery, 0.03% in intraday, and \u20b930 per lot in Futures and Options. If the customer wants to reduce these charges, they can contact their Relationship Manager for assistance."
+    },
+    {
+        "query": "Can the brokerage charges be more or less?",
+        "agent_solution": "The agent informed that if the customer wants to reduce the brokerage charges, they can contact their Relationship Manager, who will help in reducing the brokerage."
+    },
+    {
+        "query": "Can I have the contact details of my Relationship Manager?",
+        "agent_solution": "The agent provided the customer with the Relationship Manager's contact number, which is 9111 77355, and mentioned that the Relationship Manager's name is Seema, who is located at the indoor branch."
+    },
+    {
+        "query": "My account is in trash. I want to check if my account is open in Equity or Mutual Funds.",
+        "agent_solution": "The agent checked and informed the customer that there is no account on the provided number. After verifying the correct number and security data, the agent confirmed that the account is open."
+    },
+    {
+        "query": "I opened my account with the help of a bank's app, but it's not showing as opened in the leaflet.",
+        "agent_solution": "The agent confirmed that the account has been opened under the name Choice Finx Private Limited and assured the customer that the account is indeed open."
+    },
+    {
+        "query": "If I don't receive a message about my account, can I get it through mail?",
+        "agent_solution": "The agent advised the customer to mail their request to the support page's email address, and the team will send a message if not received."
+    },
+    {
+        "query": "I have a fund available in the Choice application. I have to withdraw that fund to the bank account. I had sent a request in the morning; it was in auto-pending. Now it has been cancelled automatically.",
+        "agent_solution": "The agent explained that the withdrawal request does not get canceled automatically; it is usually canceled from the client's side. However, the agent offered to check with the back-end team to verify the status of the request and advised the customer to stay on the line for further confirmation."
+    },
+    {
+        "query": "Should I send the request again, or should I not do it?",
+        "agent_solution": "The agent advised the customer to wait for confirmation after checking with the back-end team before sending the request again. The agent requested the customer to stay on the line for further instructions."
+    },
+    {
+        "query": "I am withdrawing money from my Choice Broking account, but it is not going through.",
+        "agent_solution": "The agent informed the customer that since the funds were added today, they cannot be withdrawn on the same day. The customer will have to wait until the next day to withdraw the funds."
+    },
+    {
+        "query": "There is no derivative segment activated in my account. How can I activate it?",
+        "agent_solution": "The agent guided the customer to open the application and navigate to the profile section. The customer was instructed to click on 'Segment Activation' and tick the segments they want to activate. The customer needs to submit a request and upload a 6-month bank statement as income proof."
+    },
+    {
+        "query": "I opened an account through a referral and there is no update in my account. The lead has not been added.",
+        "agent_solution": "The agent informed the customer that the line they were on was for customer care clients and that their support was separate. The customer was advised to contact the support number 812424242424 for further assistance."
+    },
+    {
+        "query": "I have opened an account from my referral program in the Demat account, but it has not been added to the lead yet.",
+        "agent_solution": "The agent asked the customer to provide details such as client ID or mobile number. The customer was advised to mention in their communication that they have referred someone and have not received a referral voucher. They should also include the client ID and phone number of the people they referred."
+    },
+    {
+        "query": "What will I have to do for Panchayat-ji?",
+        "agent_solution": "The agent provided the customer with the contact number 812-22-22-22 for Panchayat-ji related queries."
+    },
+    {
+        "query": "I wanted to ask you something about the profit I made today. When the market was closed, my amount was Rs. 4,462. I have made a profit of Rs. 922 today. This fund is telling me that only Rs. 3922 is coming from the fund.",
+        "agent_solution": "The agent explained that in Choice Finx, the brokerage is Rs. 20 per lot. Therefore, the brokerage amount will be deducted from the total profit, and the remaining amount will be received by the customer. The settlement will be completed by the next day, and the customer will receive a proper contract note with the amount."
+    },
+    {
+        "query": "I am selling, but the account is showing a minus.",
+        "agent_solution": "The agent explained that the customer's margin is utilized by 0.79, and the amount from the sellout has not yet been settled. The settlement time is on Tuesdays and Mondays, so the amount will be settled the next day. The customer needs to wait until tomorrow for the settlement."
+    },
+    {
+        "query": "The balance is showing in minus. The amount available for trading is showing minus 44.",
+        "agent_solution": "The agent clarified that the balance is showing minus 44 because the margin is utilized in today's order. The customer should wait until tomorrow for the amount to be settled."
+    },
+    {
+        "query": "Earlier, the fund was 126 rupees. On the 9th, you traded 238 rupees. You traded against it because your account went negative by 121.",
+        "agent_solution": "The agent confirmed that the sale is done, and the position is cleared up. The amount of the sale is settled the next day, with 80% done on the same day and the remaining 20% done the next day. The customer can wait until tomorrow morning for the settlement."
+    },
+    {
+        "query": "I am downloading an app, there is an invalid token message.",
+        "agent_solution": "The agent suggested reinstalling the application as there is no issue from their side. If the problem persists, the customer should send a screenshot to Customer Care at care@choiceindia.com."
+    },
+    {
+        "query": "What is the address that you are updating in the document?",
+        "agent_solution": "The agent suggested checking the TTO (Trade to Trade) details and mentioned that there might be technical difficulties. They advised processing the document again and uploading it, asking the customer to inform them if any issues arise."
+    },
+    {
+        "query": "Do you want to add a memory or skip it?",
+        "agent_solution": "The agent confirmed that the customer should skip adding a memory and complete the rest of the cases, assuring that there is no issue."
+    },
+    {
+        "query": "What should I do if there is an error during processing?",
+        "agent_solution": "The agent instructed the customer to let them know if there is any error during processing and mentioned that they are trying to contact the customer for further assistance."
+    },
+    {
+        "query": "How do I repay the bank and complete the process?",
+        "agent_solution": "The agent explained that the customer needs to enter their account number and IFSC code, click on the box to collect the money, and complete the process at the bank to ensure they receive the money."
+    },
+    {
+        "query": "What bank details do I need to provide?",
+        "agent_solution": "The agent informed the customer to enter the IFSC code and account number of the bank they primarily use, as they need to connect to the bank. They also mentioned that the customer should complete the process and call back if there are any issues."
+    },
+    {
+        "query": "Do you want to complete it?",
+        "agent_solution": "The agent confirms the completion of the transaction by transferring the amount to the customer's account."
+    },
+    {
+        "query": "I have just applied for an IPO. It has been amended, but there is no update here.",
+        "agent_solution": "The agent checked the status and informed the customer that the IPO application is in the UPI status. The amount is blocked, but the application is not updated yet. The update will occur once confirmation is received from the central depository."
+    },
+    {
+        "query": "Where will the confirmation come from? From the exchange?",
+        "agent_solution": "The agent clarified that the confirmation will come from the central depository, and then it will be updated in the application."
+    },
+    {
+        "query": "The fund of 19,000 was shown in the ledger, but only 10,000 is showing in the account. Where did the rest of the funds go?",
+        "agent_solution": "The agent informed the customer that the account had Rs. 29,851 as of yesterday. The customer conducted trading, buying and selling 1900 units of Choice Finx, resulting in a debit balance of Rs. 19,408. The current ledger balance is Rs. 10,443 due to a loss of Rs. 16,629 from the trading, inclusive of brokerage and GST."
+    },
+    {
+        "query": "How long will it take for the withdrawal to be processed?",
+        "agent_solution": "The agent explained that if the withdrawal request is made now, the balance will be in the customer's account between 2 to 3 o'clock today."
+    },
+    {
+        "query": "Can you check if my withdrawal request is successful?",
+        "agent_solution": "The agent confirmed that a withdrawal request for Rs. 10,443 was made and the payment will be received in the customer's account between 2-3 pm today."
+    },
+    {
+        "query": "I just had a sale for rupees near about 200K today, and it is not reflecting in my trading account. I just want to withdraw that amount. When will it be reflecting, and how can I withdraw it?",
+        "agent_solution": "The sale amount will reflect in the account on the next working day, which will be on Monday. The customer can withdraw the amount around 10:00 to 10:30 AM."
+    },
+    {
+        "query": "At what time will it be credited to my bank account?",
+        "agent_solution": "If the customer places a request before market hours, it will be credited to their Demat account on the same day. If the request is placed after market hours, it will be credited on the next working day. The customer should apply before the market opens or during market hours."
+    },
+    {
+        "query": "I had withdrawn money. Why hasn't it come yet?",
+        "agent_solution": "The agent checked and informed the customer that the withdrawal made today is pending and is expected to be processed by 9 PM. The agent also confirmed that a previous withdrawal of Rs. 500 was successful."
+    },
+    {
+        "query": "I can't see the entry for the Rs. 500 withdrawal in my account.",
+        "agent_solution": "The agent confirmed that the Rs. 500 withdrawal was successful and advised the customer to check their Kotak Mahindra account statement. If the entry is not visible, the customer should send a screenshot of their statement to customercare@choiceindia.com."
+    },
+    {
+        "query": "Will the Rs. 9000 withdrawal come tonight?",
+        "agent_solution": "The agent assured the customer that the Rs. 9000 withdrawal would be processed and should be visible in the account by 9 PM."
+    },
+    {
+        "query": "Should I modify anything in the pending transactions?",
+        "agent_solution": "The agent advised the customer not to modify anything in the pending transactions as it could delay the process. The transaction should be successful by 9 PM."
+    },
+    {
+        "query": "I want to know the bank details and whether the funds have been withdrawn or not.",
+        "agent_solution": "The agent confirmed that the request for withdrawal has been successfully placed and requested the customer to wait until the evening for the payment to be transferred to their bank. The primary bank is shown as Bank of India."
+    },
+    {
+        "query": "I have taken the money from the SEBI. Is there a primary SEBI in this?",
+        "agent_solution": "The agent clarified that if the customer selected the withdrawal to be in their SEBI account, then the funds will be received in the same bank."
+    },
+    {
+        "query": "Customer asked if the payout of \u20b990,000 and \u20b912,90,000 will be done now.",
+        "agent_solution": "The agent informed the customer that the payout request has been sent and it will be done by 10 o'clock. The customer should receive it by today."
+    },
+    {
+        "query": "Customer inquired if both accounts should be done before 2 o'clock.",
+        "agent_solution": "The agent expressed doubt that it would be done before 2 o'clock since the request was made at 10:18. The customer was advised to check by 12 or 2, and if it doesn't come by 2, it should come after 10."
+    },
+    {
+        "query": "Customer asked if they should contact Lokesh for further assistance.",
+        "agent_solution": "The agent explained that Lokesh sits in Bhopal and they cannot transfer the call from there. However, the agent offered to ask Lokesh to call the customer."
+    },
+    {
+        "query": "The customer wants to activate the F&O segment for their daughter's account after buying shares worth 15,000.",
+        "agent_solution": "The agent informs the customer that they need to email care@choiceindia.com requesting a holding statement for the F&O segment, including the client ID. Once the request is generated, the segment will be activated within 48 working hours."
+    },
+    {
+        "query": "The customer asks if they need to send the email or if their daughter should do it.",
+        "agent_solution": "The agent advises that the email should be sent from the daughter's registered email ID."
+    },
+    {
+        "query": "The customer inquires about the email address to send the request to.",
+        "agent_solution": "The agent confirms the email address as care@choiceindia.com."
+    },
+    {
+        "query": "The customer asks what needs to be written in the email.",
+        "agent_solution": "The agent instructs to write that a statement for the F&O segment, specifically a DP statement, is required and to mention the client code."
+    },
+    {
+        "query": "The customer asks about the process after obtaining the statement.",
+        "agent_solution": "The agent explains that after obtaining the statement, the customer should go to the Choice Finx application, navigate to 'More', click on their name, and select 'Profile Modification' to raise a request. The account will be activated in 48 working hours after the request is raised."
+    },
+    {
+        "query": "The customer asks if they need to upload documents to Choice Finx.",
+        "agent_solution": "The agent confirms that documents need to be uploaded."
+    },
+    {
+        "query": "The customer inquires about the charges for selling shares.",
+        "agent_solution": "The agent explains that in the delivery and cash segment, the charge is 0.3%, and in intraday, it is 0.03% over the turnover. For the F&O segment, charges will be confirmed once the segment is activated."
+    }
+]
